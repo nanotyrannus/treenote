@@ -1,0 +1,1394 @@
+---
+Actinidiaceae:
+    Actinidia:
+        name: [Kiwi, Kiwifruit]
+        tags: [food]
+Adoxaceae:
+    Sambucus:
+        Sambucus nigra:
+            name: [Elder, Elderberry, Black Elder]
+            tags: [food, butterfly, utility]
+            habit: [bush]
+            desc: >
+                Hollow stems. Berries useful for cuisine.
+Anacardiaceae:
+    Mangifera:
+Annonaceae:
+    Annona:
+    Rollinia:
+        Rollinia deliciosa:
+            tags: [food]
+            desc: >
+                Fast growing sun loving tree to 49 ft.
+Apiaceae:
+    Angelica:
+        Angelica californica:
+    Foeniculum:
+        Foeniculum vulgare:
+            name: [Wild Anise]
+            tags: [butterfly, food]
+            desc: >
+                Non-native host for Papilio zelicaon.
+    Chaerophyllum:
+        Chaerophyllum bulbosum:
+    Perideridia:
+        name: [Yampah]
+        locality: [Western US, US, California]
+        tags: [dynamic accumulator, naturalization]
+    Pimpinella:
+        Pimpinella anisum:
+            name: [Anise, Aniseed]
+            habit: [forb]
+            tags: [food]
+Araceae:
+    Alocasia:
+        Alocasia Boa:
+            desc: >
+                Medium sized elephant ear with oblong-lanceolate leaves.
+        Alocasia gageana:
+            desc: >
+                Small to medium sized elephant ear, cute.
+        Alocasia lauterbachiana:
+            name: [Purple Sword]
+            desc: >
+                To 4 ft. Attractive saggitate-lanceolate leaves.              
+    Anthurium:
+        Anthurium formosum:
+            habit: [epiphyte]
+            desc: >
+                Bee pollinated.
+        Anthurium amnicola:
+            habit: [epiphyte, rosette]
+            desc: >
+                White or purple bract with pink spadix. Flowers scented.
+    Philodendron:
+        Philodendron melanochrysum:
+            habit: [epiphyte]
+        Philodendron gloriosum:
+            habit: [terrestrial]
+        Philodendron hastatum:
+            habit: [hemiepiphyte]
+            synonyms: [Philodendron glaucophyllum]
+        Philodendron hederaceum var. micans:
+            habit: [epiphyte]
+            desc: Green leaves tinged with purple. Hirstute.
+        Philodendron martianum:
+            synonyms: [Philodendron cannifolium]
+            habit: [epiphyte, rosette]
+            desc: >
+                Often called incorrectly "Philodendron cannifolium". Found as an
+                epiphyte and rarely a terrestrial, this plant has attractive bulb-like
+                petioles and grows in a rosette.
+Arecaceae:
+    Washingtonia:
+        Washingtonia filifera:
+            name: [Desert Fan Palm, California Fan Palm]
+            habit: [palm]
+            tags: [xeric]
+    Butia:
+        Butia capitata:
+            name: [Jelly Palm, Pindo Palm]
+            habit: [tree]
+            tags: [food]
+            desc: >
+                Short for a palm. Fruit can be eaten raw, made into wine, or 
+                processed into jelly. Fruit does not keep long, even when
+                refrigerated.
+Asteraceae:
+    Artemisia:
+        Artemisia tridentata:
+            name: [Sagebrush]
+            habit: [brush]
+            locality: [California, Western US, US]
+    Aster:
+        Aster ageratoides 'Ezo Murasaki':
+            name: Japanese Aster
+            habit: [bush]
+            locality: []
+            desc: >
+                Late blooomer for an Aster. Medium bush to 2 ft x 2+ ft.
+    Baccharis:
+        Baccharis salicifolia:
+        Baccharis sarothroides:
+            name: [Desertbroom Baccharis]
+        Baccharis pilularis consanguinea:
+            name: Coyote Bush
+            habit: [bush, xeric]
+            desc: >
+                Drought tolerant bush with asteroid flowers. Attracts beneficial insects and birds.
+    Balsamorhiza:
+        Balsamorhiza sagittata:
+            name: [Arrowleaf Balsamroot]
+            tags: [xeric, bee]
+            desc: >
+                Bright orange-yellow flowers appear May-June. Native to
+                Californian deserts. Hairy stem. Taproot. Goes dormant
+                after flowering. May not flower in first year.
+    Berlandiera:
+        Berlandiera lyrata:
+            name: [Chocolate Flower]
+            habit: [forb]
+            tags: [xeric]
+            desc: > 
+                Wafting scent of chocolate. Low growing dandelion-like rosette
+                with long-stemmed flowers. Maybe good candidate for polyculture
+    Chaenactis:
+        Chaenactis glabriuscula:
+            locality: [US, California, Western US]
+            desc: >
+                Fragrant yellow flowers.
+            tags: [xeric, fragrant]
+    Chamaemelum:
+        Chamaemelum nobile:
+            name: [Roman Chamomile, English Chamomile, Garden Chamomile]
+    Chamaemelum:
+        Chamaemelum nobile:
+            name: [German Chamomile]
+            habit: [groundcover]
+            tags: [utility, food, dynamic accumulator]
+    Chrysothamnus:
+        locality: [Western US, California, US]
+        tags: [larval host, butterfly, bee, xeric]
+    Conyza:
+        Conyza canadensis:
+            name: [Horseweed]
+            locality: [California, US]
+            desc: >
+                Hardy weedy plant. Good for naturalization. Some may experience
+                irritation on contact.
+    Coreopsis:
+        Coreopsis integrifolia:
+            name: [Fringeleaf Tickseed]
+            habit: [herb, mesic]
+            tags: [shade]
+            locality: [US, Southeastern US]
+    Cynara:
+        Cynara cardunculus:
+            name: [Cardoon]
+            habit: [rosette]
+            tags: [food]
+            desc: >
+                Large thistle tribe member. Stalks can be used like palm heart.
+    Dahlia:
+        tags: [food]
+        desc: >
+            Contains edible tubers.
+    Encelia:
+        Encelia farinosa:
+            name: [Brittlebush]
+            locality: [California, US]
+            tags: [bush, xeric, bee]
+    Ericameria:
+        Ericameria linearifolia:
+            name: [Narrowleaf Goldenbush]
+            tags: [xeric, butterfly, bee]
+            vendors: [laspilitas.com, watershednursery.com]
+    Eriophyllum:
+        Eriophyllum confertiflorum:
+            locality: [Baja California, California, US, Western US]
+            vendors: [laspillitas.com]
+            tags: [butterfly larval host]
+    Eupatorium:
+        Eupatorium maculatum:
+    Gaillardia:
+        locality: [US, California]
+        tags: [bee, butterfly]
+    Gynura:
+        Gynura procumbens:
+            name: [Longevity Spinach]
+    Haplopappus:
+        Haplopappus linearifolius:
+            name: [Narrowleaf Goldenbush]
+            locality: [California, US]
+            vendor: [Las Pilitas]
+    Helianthus:
+        Helianthus tuberosus 'Dwarf Sunray':
+            desc: >
+                Approximately 6 foot dwarf cultivar.
+        Helianthus decapetalus 'Plenus':
+            desc: >
+                Chrystanthemum-like double blossoms.
+    Lasthenia:
+        Lasthenia coronaria:
+        Lasthenia californica:
+            locality: [Western US, California, US]
+            tags: [annual, mesic, xeric, bee]
+    Layia:
+        Layia platyglossa:
+            locality: [Western US, California, US]
+            tags: [annual, woodland, mesic, xeric, bee]
+    Matricaria:
+        Matricaria chamomilla:
+            name: [German Chamomile, Wild Chamomile]
+    Melampodium:
+        Melampodium leucanthum:
+            name: [Blackfoot daisy]
+            habit: [forb, groundcover]
+            locality: [Sonora, California, US]
+            desc: >
+                Long bloom period from March to November. Attractive native. 
+                Light honey fragrance.
+    Packera:
+        Packera pseudaurea:
+            locality: [Western US, California, US]
+        Packera obovata:
+            name: [Golden Groundsel, Roundleaf Groundsel]
+            habit: [rosette]
+            tags: [shade]
+            locality: [US, Eastern US]
+    Senecio:
+        Senecio fremontii:
+            name: [Freemont Groundsel, Rock Groundsel]
+            locality: [US, California]
+            tags: [bee]
+    Solidago:
+        locality: [US]
+        desc: >
+            Attractive to beneficial insects. Ornamental.
+        Solidago gigantea:
+            name: [Late Goldenrod]
+            tags: [mesic]
+            vendors: [prairiemoon.com]
+        Solidago spectabilis:
+            name: [Showy Goldenrod]
+            tags: [mesic]
+        Solidago velutina californica:
+            synonyms: [Solidago californica]
+            tags: [mesic, xeric]
+            vendors: [laspillitas.com]
+        Solidago velutina californica 'Cascade Creek':
+            desc: >
+                Cascade Creek goldenrod is a superior form of this native   
+                discovered by master plantsman Roger Raiche.  The flower heads 
+                are large and compact and do not flop like other types. 
+                Perfectfor habitat gardeners in low and very low water 
+                conditions it will attract a variety of creatures like native 
+                butterflies and other pollinators to the garden in summer and 
+                fall.
+    Symphyotrichum:
+        Symphyotrichum lanceolatum:
+            name: [Panicled Aster]
+            locality: [US, Western US, Eastern US]
+            vendors: [prairiemoon.com]
+    Tragopogon:
+        Tragopogon porrifolius:
+            name: [Purple Salsify, Common Salsify, Oyster Plant]
+            habit: [rosette, biennial]
+            tags: [food]
+            desc: >
+                Ornamental purplish-pink flower. Edible tubers.
+    Tagetes:
+        Tagetes lucida:
+            name: Mexican Tarragon
+            habit: [herb, bush]
+            tags: [perennial]
+    Tanacetum:
+        Tanacetum parthenium:
+            name: [Feverfew]
+    Tithonia:
+        Tithonia rotundifolia:
+            habit: [annual]
+            tags: [butterfly, hummingbird]
+            desc: >
+                Enjoys hot weather. Drought tolerant. Good candidate as annual
+                biomass producer.
+    Wyethia:
+    Vernonia:
+Bignoniaceae:
+    Jacaranda:
+        Jacaranda mimosifolia:
+    Chilopsis:
+        Chilopsis linearis:
+            tags: [fragrant, hummingbird, xeric]
+            locality: [US, California, Western US]
+            desc: >
+                Fast growing with willow-like leaves. Has dormancy period.
+    Millingtonia:
+        Millingtonia hortensis:
+            tags: [fragrant]
+            name: [Tree Jasmine, Indian Cork Tree]
+Boraginaceae:
+    Borago:
+        Borago officinalis:
+            name: [Borage]
+            habit: [annual]
+            tags: [dynamic accumulator, bee]
+    Nemophila:
+        Nemophila menziesii:
+            name: [Baby Blue Eyes]
+            habit: [annual, bee, xeric, butterfly]
+            locality: [US, California, Western US]
+    Phacelia:
+        Phacelia tancetifolia:
+            name: [Blue Tansy, Purple Tansy]
+            locality: [Western US, California]
+            tag: [xeric, taproot, annual, bee, dynamic accumulator,hoverfly, nectar]
+Brassicaceae:
+    Descurainia:
+        Descurainia pinnata:
+            name: [Eastern Tansymustard]
+            habit: [rosette, forb]
+            tags: [food]
+            links:
+                - general: http://www.eattheweeds.com/coronopus-descurainia-cardamine-erucastrum-sibara-2/
+Cannabaceae:
+    Cannabis:
+        Cannabis ruderalis:
+            habit: [herb, ruderal, xeric]
+Caprifoliaceae:
+    Lonicera:
+        Lonicera interrupta:
+            name: [Chaparral Honeysuckle]
+            locality: [US, California, Arizona]
+            habit: [bush, xeric]
+            tag: [hummingbird]
+            desc: >
+                Berries edible but bitter. Sun to shade.
+    Symphoricarpos:
+        Symphoricarpos albus:
+            name: [Snowberry]
+            locality: [US, California]
+            desc: >
+                Berries edible but reportedly taste like soap. Still, has an
+                ornamental appeal. Drought tolerant once established.
+Crassulaceae:
+    Crassula:
+    Dudleya:
+        tags: [bee, hummingbird]
+        locality: [Western US, California]
+Ericaceae:
+    Vaccinium:
+        Vaccinium ovatum:
+            name: [Huckleberry]
+            locality: [US]
+            habit: [clay, sand, food]
+    Arctostaphylos:
+        Arctostaphylos manzanita:
+            tags: [hummingbid, butterfly, xeric]
+        Arctostaphylos glauca:
+            tags: [hummingbird, butterfly, xeric]
+            desc: >
+                To about 15 ft in height, although the largest known 
+                specimen is 35 ft.
+    Gaulerthia:
+        Gaulerthia procumbens:
+            name: [Eastern Teaberry, Checkerberry, Boxberry, American Wintergreen]
+            locality: [US, Canada, Eastern US]
+            desc: >
+                Prefers acidic soil in pine or hardwood forests. Tends only
+                to produce fruit in sunnier areas. It often grows as part 
+                of the heath complex in an oak-heath forest. Berries edible
+                and impart a minty taste. Leaves and branches can be made
+                into tea, although they should be fermented for at least 3
+                days.
+            links:
+                - eattheweeds article: http://www.eattheweeds.com/teaberry-shuffle-2/
+    Cavendishia:
+    Macleania:
+    Chimaphila:
+        Chimaphila maculata:
+            name: [Striped Wintergreen]
+            locality: [US]
+            habit: [subshrub, perennial, utility]
+            desc: >
+                May rely partially on mycorhizal relationships to survive.
+                Cute plant with downward facing pendulous flowers. Leaves
+                used to make tea.
+Pinaceae:
+    Pinus:
+        Pinus monophylla:
+            name: [Single-Leafed Pinyon, Single-Leafed Piñon]
+            locality: [Utah, Arizona, Calfornia, New Mexico, Nevada, 
+                      Baja California, Mexico, US]
+Papaveraceae:
+    Dicentra:
+        Dicentra formosa:
+            name: [Western Bleeding Heart, Pacific Bleeding Heart]
+            habit: [herb, perennial, shade]
+            tags: [Western US, California, US]
+            desc: >
+                May go dormant in the summer to re-emerge in the fall.
+                Attractive fern-like leaves.
+    Eschscholzia:
+        Eschscholzia californica:
+            name: [California Poppy]
+            tags: [butterfly, bee, xeric]
+            locality: [California, US]
+            desc: >
+                State flower of California. Tender perennial which can bloom
+                all year but winter. Closes on rainy days or at night.
+    Platystemon:
+        Platystemon californicus:
+            name: [Creamcups]
+            tags: [bee, annual, xeric, butterfly]
+            locality: [US, California]
+            desc: >
+                Partially pollinated by solitary bees, but mostly
+                wind pollinated. Cute flowers. Flowers occur from winter
+                to spring.
+Nyctaginaceae:
+    Abronia:
+        Abronia villosa:
+            name: [Desert Sand-Verbena, Chaparral Sand-Verbena]
+            habit: [herb, annual]
+            tags: [US, California, Mexico, Xeric]
+            desc: >
+                Hairy wildflower with sweet fragrance.
+Verbenaceae:
+    Lippia:
+        Lippia repens:
+            locality: [US, California]
+            tags: [xeric, mesic, clay, butterfly, bee]
+            desc: >
+                Groundcover. Lawn replacement.
+Cleomaceae:
+    Peritoma:
+        Peritoma arborea:
+            name: [Bladderpod]
+            synonyms: [Isomeris arborea, Cleome isomeris]
+            locality: [US, California]
+            tags: [nectary, bee, butterfly, xeric, dynamic accumulator]
+            desc: >
+                Blooms all year. Leaves have scent of pepper and onion.
+            links:
+                - The Intriguing Aroma of Bladderpod: https://granadanativegarden.org/2017/02/14/the-intriguing-aroma-of-bladderpod/
+Cucurbitaceae:
+    Momordica:
+        Momordica cochinchinensis:
+            name: [Gac]
+            tags: [food]
+            desc: >
+                Seeds have red edible flesh surrounding them.
+Fabaceae:
+    Acacia:
+        Acacia koa:
+            desc: >
+                Drought tolerant large tree to 100 ft. Attractive 
+                sickle-shaped phyllodes.
+    Acmispon:
+        Acmispon glaber:
+            synonyms: [Lotus scoparius]
+            locality: [US, California]
+            tags: [butterfly, larval host, ruderal, xeric]
+            vendors: [Las Pilitas]
+    Aeschynomene:
+        Aeschynomene americana:
+            tags: [nitrogen fixer]
+            desc: >
+                Used for forage and soil rehabilitation. Uses cowpea type
+                inoculant.
+    Anadenanthera:
+        Anadenanthera colubrina:
+            name: [vilca, huilco, huilca, wilco, willka, curupay, cebil, angico]
+            desc: >
+                To 16 - 66 ft (5 - 20 m) in height. Bark contains entheogen.
+                Grows in savannah to dry rainforest.
+    Astragalus:
+        notes: prariemoon.com sells inoculum.
+        Astragalus nuttallii:
+            locality: [Western US, California, US]
+            tags: [nitrogen fixing, clay, sand, salt, bird, bee]
+            desc: >
+                Becomes fuzzy and gray in drought conditions.
+    Baptisia:
+        Baptisia australis:
+            tags: [nitrogen fixer]
+            vendors: [prairiemoon.com]
+        Baptisia alba:
+            tags: [nitrogen fixer]
+            vendors: [prairiemoon.com]
+    Caesalpinia:
+        Caesalpinia pulcherrima:
+            attracts: [hummingbird, butterfly]
+            desc: >
+                Nectar plant. Leguminous. Non-nodulating but apparently fixates 
+                nitrogen.
+    Cicer:
+        Cicer arietinum:
+            name: [Chickpea, Garbanzo, Egyptian Pea, Gram]
+            tags: [nitrogen fixer, food]
+            habit: [perennial]
+            desc: >
+                Large beans. Ingredient in hummus.
+    Calliandra:
+        Calliandra californica:
+            name: [Baja Fairy Duster]
+            locality: [Baja California, Mexico]
+            tags: [butterfly, xeric, hummingbird]
+    Cassia:
+        Cassia bakeriana:
+    Lathyrus:
+        Lathyrus palustris:
+            name: [Marsh Vetchling]
+            locality: [Eastern US, Western US, California]
+            tags: [forb, mesic, nitrogen fixer]
+        Lathyrus tuberosus:
+            tags: [food]
+    Lotus:
+        Lotus corniculatus:
+            name: [Birdsfoot Trefoil]
+            tags: [invasive, noxious invasive]
+    Lupinus:
+        notes: >
+            Inoculum sold by prairiemoon.com
+        Lupinus arboreus:
+            tags: [bee]
+            locality: [Annie's Annuals]
+        Lupinus albifrons:
+            tags: [bee]
+            locality: [Annie's Annuals]
+    Melilotus:
+        Melilotus officinalis:
+            name: [Yellow Sweet-Clover]
+            locality: [Europe, Asia]
+            tags: [invasive, bee, nectary, biennial, dynamic accumulator, green manure]
+            desc: >
+                Leaves fragrant of vanilla. Flowers sweetly fragrant. Highly
+                attractive to bees. May displace native species.
+            links:
+                - Role of M. officinalis in exotic localities: https://experts.umn.edu/en/publications/role-of-invasive-melilotus-officinalis-in-two-native-plant-commun
+    Mimosa:
+        Mimosa bimucronata:
+            desc: >
+                Fast growing and thorny to 8 m in height.
+        Mimosa scabrella:
+            locality: [Brazil, Argentina]
+            desc: >
+                Fast growing attractive tree that is deeply pinnate. Its 
+                native habitate is humid temperate with frosts in the winter.
+                Heavy leaf fall, which encourages soil activity.
+    Vicia:
+        Vicia americana:
+            locality: [US, California, Western California]
+            tags: [xeric, mesic, groundcover]
+            vendors: [graniteseed.com]
+        Vicia faba:
+            name: [Fava Bean, Broad Bean, Field Bean, Bell Bean]
+            tags: [nitrogen fixer, food]
+            habit: [annual]
+            desc: >
+                Greens eaten as vegetables, beans edible.
+    Medicago:
+        Medicago sativa:
+            name: [Alfalfa, Lucerne]
+            tags: [dynamic accumulator, green manure, butterfly, bee]
+            desc: >
+                Larval host for Colias eurytheme.
+    Amorpha:
+        notes: >
+            prariemoon.com sells inoculum for this genus.
+        Amorpha californica:
+            name: [False Indigo]
+            tag: [naturalize, butterfly, xeric, taproot, fragrant]
+            locality: [US, California, Western US]
+            desc: >
+                Larval host for Zerene eurydice (California Dogface).
+        Amorpha fruticosa:
+            name: [Western False Indigo]
+            tag: [naturalize, butterfly, mesic, shade, fragrant, fibrous root]
+            locality: [US, California, Western US]
+            desc: >
+                Tall bush with leaves towards the top. Needs protection from
+                intense sun and drought.
+    Tamarindus:
+        Tamarindus indica:
+    Robinia:
+        Robinia neomexicana:
+            locality: [US, Western US, California]
+    Pachyrhizus:
+        Pachyrhizus erosus:
+            name: [Jicama, Singkamas]
+            tags: [food, tuber]
+    Parkinsonia:
+        notes: Pollen causes extreme reaction for those allergic to it.
+        Parkinsonia florida:
+        Parkinsonia microphylla:
+    Phaseolus:
+        Phaseolus coccineus:
+            name: [Scarlet Runner Bean]
+    Prosopis:
+        Prosopis glandulosa:
+            name: [Honey Mesquite]
+            tags: [food]
+            habit: [tree, xeric]
+            desc: >
+                To 30 ft (9.1 m) in height.
+        Prosopis pubescens:
+            name: [Screwbean Mesquite]
+            tags: [food]
+            habit: [tree, xeric]
+            desc: >
+                To 33 ft (10.1 m) fin height.
+    Senna:
+        Senna armata:
+            locality: [Sonoran Desert, US, Western US, California, Nevada]
+    Sophora:
+        Sophora chrysophylla:
+            name: [Māmane]
+            locality: [US, Hawaii] 
+    Inga:
+        Inga edulis:
+            name: [Ice-cream Bean]
+    Tamarindus:
+        Tamarindus indica:
+            name: [Tamarind]
+            locality: [Africa]
+            tag: [xeric, food]
+            habit: [tree]
+            desc: >
+                Huge tree.
+    Olneya:
+        Olneya tesota:
+            name: [Ironwood]
+            tags: [food]
+            habit: [tree, xeric]
+            desc: >
+                To 32.8 ft (10 m) in height.
+            links:
+                - Desert Harvesters Article: https://www.desertharvesters.org/native-plant-food-guides-the-desert-can-feed-you/desert-ironwood/
+                - Edible Arizona Article: http://ediblebajaarizona.com/harvesting-the-bean-trees
+    Glyciridia: 
+        Glyciridia sepium:
+            habit: [tree]
+            name: [Quickstick]
+            desc: >
+                Extremely fast growing and tolerates the heaviest prunings.
+                Great for green manure.
+    Erythrina:
+        Erythrina spp.:
+            desc: >
+                Contains hummingbird pollinated native members.
+            Erythrina herbacea:
+                locality: [Texas, Florida, United States, Mexico]
+                habit: [bush]
+                attracts: [hummingbird]
+            Erythrina x bidwillii:
+                habit: [bush, tree]
+                attracts: [hummingbird]
+
+    Melaleuca:
+        Melaleuca nesophila:
+            habit: [tree, bush, terrestrial]
+            desc: >
+                Leguminous small to medium sized tree with pink puffball
+                inflorescence. Cute.
+    Delonix:
+        Delonix floribunda:
+            name: [Bottle Flamboyant]
+            habit: [xeric, tree]
+            desc: >
+                Caudiciform tree with unique flowers with long yellow stamens.
+            locality: [Madagascar]
+            links:
+                - vendor: https://www.baobabs.com/Fiche2.php?Lang=en&Ref=637
+    Cercis:
+        Cercis canadensis:
+        Cercis occidentalis:
+    Pickeringia:
+        Pickeringia montana:
+            name: [Chaparral Pea]
+    Dalea:
+        Dalea foliosa:
+            tags: [xeric]
+            vendors: [prairiemoon.com] 
+        Dalea purpurea:
+            name: [Purple Prairie Clover]
+            habit: [perennial, leguminous, forb, nitrogen fixing, 
+                    xeric, ruderal]
+    Desmodium:
+        Desmodium glutinosum:
+            locality: [Eastern US, US]
+            vendors: [prairiemoon.com]
+    Senna:
+    Caesalpinia:
+Grossulariaceae:
+    Ribes:
+        Ribes nevadense:
+            name: [Pink Sierra Currant]
+            tags: [food, mesic, bird, butterfly, hummingbird]
+            vendor: [Las Pilitas]
+        Ribes sanguineum:
+        Ribes indecorum:
+            name: [White Flowering Currant, White Chaparral Currant]
+            locality: [California]
+            tags: [bird, hummingbird, butterfly, xeric, shade, fragrant]
+            desc: >
+                White flowers occur January to March. Foliage and flowers
+                are fragrant. Fruit edible although palatability is unknown.
+            vendor: [Las Pilitas]
+        Ribes interrupta:
+        Ribes malvaceum:
+            name: [Pink Chaparral Currant]
+            locality: [California, US]
+            tags: [hummingbird, bird, butterfly]
+            desc: >
+                Pink fragrant flowers occur October to March. Fruit 
+                edible although not palatable. Drought stress dormancy.
+                A single leaf from the plant will add a distinct
+                flavor to your tea.
+            vendor: [Las Pilitas]
+        Ribes californicum:
+        Ribes quercotorum:
+            name: [Yellow Gooseberry]
+            locality: [Californica, US]
+            tags: [bird, butterfly, hummingbird]
+            desc: >
+                Yellow flowers are fragrant and occur from March to May.
+                Fruit edible.
+        Ribes speciosum:
+            name: [Fuchsia-Flowering Gooseberry]
+            locality: [California, US]
+            tags: [hummingbird, bird, butterfly, xeric]
+            desc: >
+                Thorny shrub with thorny fruit. Sun to shade. Beautiful
+                pendant fuchsia-like flowers. Stress deciduous. Clay,
+                sand and serpentine tolerant. Fruit is fragrant.
+            vendor: [Las Pilitas]
+        Ribes odoratum:
+        Ribes aureum:
+            name: [Golden Currant, Clove Currant, Pruterberry, Buffalo Currant]
+            locality: [US, Western US, Southwestern US, Northwestern US, California]
+            habit: [bush, shade]
+            attracts: [butterfly, hummingbird, bird]
+            desc: >
+                2 to 3 m tall. Cute leaves with 3 or 5 lobes which turn red in
+                autumn. Flowers have spicy fragrance comparable with cloves or
+                vanilla.
+        Ribes aureum gracillimum:
+            habit: [bush, shade, butterfly, hummigbird, bird]
+            desc: >
+                Bigger than typical Gold Currant with good sized berries. 
+                Larger flowers.
+            vendor: [Las Pillitas]
+        Ribes viburnifolium:
+            name: [Evergreen Currant, Catalina Perfume]
+            habit: [procumbent]
+            locality: [Catalina Islands, California, US]
+            desc: >
+                Bush to 3 feet in height. Leaves are highly fragrant of 'fine wine' 
+                when disturbed or rained upon.
+            links:
+                - vendor: https://www.laspilitas.com/nature-of-california/plants/586--ribes-viburnifolium
+        Ribes acerifolium:
+            name: [Maple-leaved Currant]
+        Ribes sanguineum glutinosum:
+            name: [Pink-Flowered Currant]
+            desc: >
+                Nice fall color.
+        vendor: [Las Pilitas]
+Oleaceae:
+    Syringa:
+        Syringa 'California Rose':
+            desc: >
+                Famed for blooming after warm winters.
+Oxalidaceae:
+    Averrhoa:
+        Averrhoa bilimbi:
+            name: [Bilimbi, Cucumber Tree, Tree Sorrel]
+            tags: [food]
+Moraceae:
+    Artocarpus:
+        Artocarpus altilis:
+            name: [Breadfruit]
+Orobanchaceae:
+    desc: >
+        Contains holo- and hemiparasitic members.
+    Castilleja:
+        Castilleja purpurea:
+            name: [Prarie Paintbrush, Downie Indian Paintbrush]
+            habit: [hemiparasitic, xeric]
+            tags: [hummingbird, bee]
+            locality: [Kansas, Missouri, Oklahoma, Texas]
+            desc: >
+                Comes in a variety of colors. Parasitic on grasses.
+        Castilleja chromosa:
+            name: [Desert Indian Paintbrush]
+            synonyms: [Castilleja angustifolia]
+            habit: [forb, hemiparasitic, xeric]
+            tags: [hummingbird]
+            locality: [US, California]
+            desc: >
+                Bright red hummingbird-pollinated flowers accompanied
+                with red blacks.
+Lauraceae:
+    Umbellularia:
+        Umbellularia californica:
+            name: [California Bay Laurel]
+            desc: >
+                Traditionally used for food by native Americans, although
+                it is not advisable to do so now. May be a good candidate
+                for naturalization. Attractive ornamental.
+Plantaginaceae:
+    Keckiella:
+    Linaria:
+        Linaria maroccana:
+        Linaria purpurea:
+    Penstemon:
+    Plantago:
+        Plantago erecta:
+        Plantago virginica:
+            links:
+                eattheweeds recipe: http://www.eattheweeds.com/white-mans-little-foot-dwarf-plantain-2/
+Asparagaceae:
+    Dichelostemma:
+        Dichelostemma capitatum:
+            name: [Blue Dicks, Desert Hyacinth,Purplehead]
+Ranunculaceae:
+    Anemone:
+        Anemone tuberosa:
+            name: [Desert Anemone]
+    Clematis:
+        Clematis lasiantha:
+            name: [Pipestem Clematis]
+            locality: [California, US]
+            habit: [xeric]
+            desc: >
+                Liana.
+    Delphinium:
+Liliaceae:
+    Calochortus:
+        locality: [Western US, US]
+    Dichelostemma:
+        Dichelostemma capitatum:
+            locality: [US, Western US, California]
+            tags: [perennial, tuberous, hummingbird, insect, bee]
+            vendors: [many]
+    Lilium:
+        Lilium auratum:
+            desc: >
+                Cute white flowers with yellow stripes down the petals and
+                brown spots.
+        Lilium Big Brother:
+            desc: >
+                Extremely large white flowers with yellow blush.
+Malvaceae:
+    Abutilon:
+        Abutilon palmeri:
+        name: [Superstition Mallow, Palmer's Abutilon, Palmer's Indian Mallow]
+        locality: [California, US, Mexico]
+        habit: [xeric]
+    Althaea:
+        Althaea officinalis:
+            name: [Marsh Mallow]
+            habit: [mesic, palustrine, marginal]
+            tags: [food]    
+    Malvaviscus:
+    Malva:
+        Malva neglecta:
+            tags: [food, dynamic accumulator, naturaliztaion]
+    Hibiscus:
+        Hibiscus syriacus:
+        Hibiscus sabdariffa:
+Orchidaceae:
+    Eulophia:
+        Eulophia quartiniana:
+            habit: [sympodial, terrestrial]
+            desc: >
+                Cute pink fragrant flowers. 
+    Habenaria:
+        Habenaria repens:
+            locality: [US]
+            tags: [mesic, aquatic]
+            desc: >
+                Mesic or floating plant. Flowers all year. Flowers produce
+                sweet vanilla scent at night to attract moths.
+Polygonaceae:
+    Eriogonum:
+        Eriogonum compositum:
+            locality: [California, US]
+            tags: [butterfly, bee, larval host]
+    Rheum:
+        Rheum australe:
+            name: [Himalayan Rhubarb]
+            habit: [rosette]
+            tags: [food, dynamic accumulator]
+            desc: >
+                Reportedly has apple flavor.
+        Rheum palmatum:
+            name: [Turkish Rhubarb]
+            habit: [bush]
+            tags: [food, dynamic accumulator]
+Solanaceae:
+    Solanum:
+        Solanum quitoense:
+        Solanum sessiflorum:
+        Solanum crispum:
+    Lycium:
+        Lycium chinense:
+            name: [Goji]
+        Lycium barbarum:
+            name: [Goji]
+Asparagaceae:
+    Ornithogalum:
+        locality: [South Africa]
+        Ornithogalum dubium:
+            habit: [bulb]
+            desc: >
+                Large orange flowers.
+        Ornithogalum thyrsoides:
+            name: [Chinkerinchee, Star-of-Bethlehem, Wonder-Flower]
+            habit: [bulb]
+            desc: >
+                Highly ornamental white flowers.
+Amerocallis:
+    name: [Daylily]
+    tag: [food, utility]
+    desc: >
+        Buds and flowers edible. Tubers edible.
+Strelitziaceae:
+    Strelitzia:
+        Strelitzia nicolai:
+            name: [White Bird of Paradise]
+            desc: >
+                Large tree with fanlike form. Attractive, especially when 
+                allowed to grow in clusters.
+Fagaceae:
+    Quercus:
+        Quercus wislizeni:
+            name: [Interior Life Oak]
+            locality: [California, US, Mexico]
+        Quercus engelmannii:
+            name: [Engelmann Oak, Pasadena Oak]
+            locality: [California, Baja California, US, Mexico]
+            desc: > 
+                To 33 ft (10 m) in height. Occurs in savannahs and dry coastal
+                plains.
+        Quercus lobata:
+            name: [Roble, Valley Oak]
+            desc: >
+                Largest North American oak species exceeding 100 ft (30 m) 
+                in height. Valley oak is found in dense riparian forests, 
+                open foothill woodlands and valley savannas.
+        Quercus prinoides:
+            name: [Dwarf Chinkapin Oak]
+            desc: >
+                Small tree to 20 ft, but more commonly 12 ft.
+Musaceae:
+    Musella:
+        Musella lasiocarpa:
+        name: [Golden Lotus Banana]
+        desc: >
+            Lower growing banana with long leaves. Fruit inedible. Highly
+            ornamental yellow inflorescence with showy yellow bracts.
+    Musa:
+        Musa acuminata x balbisiana 'Blue Java':
+            name: [Blue Java Banana, Ice Cream Banana]
+        Musa coccinea:
+        Musa ornata:
+            synonyms: [Musa violacea (invalid)]
+Cactaceae:
+    Cereus:
+        Cereus repandus:
+            name: [Peruvian Apple, Giant Club Cactus]
+            tag: [food, xeric]
+            desc: >
+                Large red fruit with edible seeds. Said to be more tasteful
+                than dragonfruit.
+    Selenicereus:
+        Selenicereus wittii:
+            synonyms: [Strophocactus wittii]
+            habit: [epiphyte, myrmecophyte]
+            desc: >
+                Like an evil shingle plant, it has overlapping pads that
+                hug the tree tightly. The margins of the pads are covered in
+                spines. Flowers are white and open at night.
+Lamiaceae:
+    Monarda:    
+        Monarda didyma 'Pardon My Cerise':
+            tags: [fragrant leaf]
+            locality: [Eastern US]
+        Monarda punctata:
+            name: [Horsemint]
+            habit: [herb]
+            tags: [xeric]
+    Monardella:
+        Monardella macrantha:
+            name: [Hummingbird Coyote Mint]
+            habit: [herb, groundcover, hummingbird]
+            tags: [xeric]
+            vendors: [Las Pilitas]
+        Monardella odoratissima:
+            name: []
+    Tetradenia:
+        Tetradenia riparia:
+            name: [Ginger Bush]
+            habit: [herb]
+            tags: []
+            desc: >
+                Extremely fragrant foliage. White inflorescences appear in winter.
+    Nepeta:
+        Nepeta tuberosa:
+            habit: [tuber, forb]
+            tags: [food]
+            desc: >
+                Edible tuber.
+    Plectranthus:
+        Plectranus esculentus:
+            habit: [herb, tuber]
+            tags: [food]
+            desc: >
+                Edible tubers.
+    Salvia:
+        Salvia apiana:
+            tags: [bush, xeric, fragrant]
+            attracts: [bee, hummingbird]
+            locality: [US, Western US, California]
+        Salvia columbariae:
+            name: [Chia Sage]
+            tags: [xeric]
+            locality: [US, Western US, California]
+        Salvia flocculosa:
+            name: [Blue Ecuadorian Sage]
+            habit: [bush]
+            tags: [xeric, hummingbird, bee]
+            desc: >
+                Small blue flowers appear on the bush year-round and attract
+                many pollinators. Bush to 10 feet in height with dense growth.
+            vendor: [Annie's Annuals]
+        Salvia funerea:
+            name: [Wooly Sage]
+        Salvia hispanica:
+            name: [Chia]
+            habit: [annual]
+        Salvia melissodora:
+            desc: >
+                Grape scented flowers. Leaves have resinous smell.
+        Salvia mellifera:
+            name: [Black Sage]
+            habit: [herb, xeric, fragrant]
+            desc: >
+                Highly fragrant.
+        Salvia mexicana 'Limelight':
+            habit: [bush, herb]
+            desc: >
+                Highly ornamental with bright green bracts that persist
+                after the flowers have fallen off.
+    Lepechinia:
+        Lepechinia calycina:
+            name: [California Pitcher Sage]
+            habit: [herb, xeric, fragrant]
+            locality: [California, United States]
+            vendor: [Las Pilitas]
+            desc: >
+                Fragrant leaves and flowers. Hummingbird attracting. Evergreen. 
+                Drought tolerant but tolerates higher levels of water. Las
+                Pilitas describes the scent as "turpentine and vinegar". Likes
+                sun to part shade.
+        Lepechinia fragrans:
+            name: [Fragrant Pitcher Sage]
+            habit: [herb, xeric, fragrant]
+            locality: [California, United States]
+            vendor: [Las Pilitas]
+            desc: >
+                Fragrant leaves and flowers. Hummingbirds. Likes dry shade.
+    Prunella:
+        Prunella vulgaris:
+            name: [Common Self-Heal, Heal-All]
+            locality: [holarctic]
+            tags: [food]
+            desc: >
+                Low growing sprawling plant. Good candidate for lawn.
+    Stachys:
+        Stachys affinis:
+            habit: [herb, tuber]
+            tags: [food]
+            desc: >
+                Edible tubers. Delicious when pickeled.
+Nelumbonaceae:
+    Nelumbo:
+        Nelumbo lutea:
+            habit: [floating, rhizomatious]
+            tags: [food]
+Nymphaeaceae:
+    Nuphar:
+        Nuphar lutea:
+        Nuphar sagitatta:
+    Nymphaea:
+        Nymphaea spp.:
+        idea: >
+            In a pond, make an arrangement of Nymphaea spp. that bloom in a
+            clockwise pattern according to the seasons.
+        Nymphaea Jakkaphong (hardy):
+        Nymphaea Chrysantha (hardy):
+        Nymphaea minuta:
+            desc: >
+                Newly described pygmy species. Tolerates low light,
+                propagates only through seed. Good breeding potential.
+        Nymphaea subg. Anecphya:
+            desc: >
+                Australian tropical water lilies. Once thought to be difficult
+                to cultivate, but techniques have been found.
+            type species: Nymphaea gigantea
+            links: ["https://www.victoria-adventure.org/waterlilies/anecphya_cultivation/page1.html"]
+        Nymphaea Albert Greenberg:
+            desc: >
+                Light green pads with interrupted mottling. Pink flowers with nice 
+                fragrance.
+        Nymphaea odorata tuberosa:
+            desc: >
+                Has tuberous storage organs like N. rubra.
+        Nymphaea 'Yellow Watermelon':
+            desc: >
+                There may be some confusion. The officially registered plant by
+                Mike Giles looks different from the version being sold by Klong15.
+                Mike Gile's plant has a white lemon scented flower held 20-25 cm
+                above the water. The leaves have a characteristic yellow venation.
+                Klong15's version has tri-colored flecked variegation that is also
+                highly attractive.
+        Nymphaea 'Manee Siam':
+            desc: >
+                Hardy white fragrant flowers. Petals are slightly pointed and give
+                the flower an attractive geometric look to it. Flowers float on
+                surface of the water and are comparable in size to leaves, at 
+                9.5 - 11.5 cm flowers to 13.5 x 12 cm leaves.
+        Nymphaea 'Wanvisa':
+            desc: >
+                Hardy pink flowers with yellow striations, very unique. Pads are
+                dark green with darker brown mottling. Some flowers partially 
+                revert to yellow, giving a pie-chart-like appearance.
+        Nymphaea 'Charlene Strawn':
+            desc: >
+                Smallish lily described as "one of the most fragrant hardies". Long
+                blooming season and "makes a great cut flower".
+            links: ["http://www.waterlilies.com/waterlilies/yellowwaterlily/charlenestrawn.html"]
+        Nymphaea 'Yasuhiro':
+            parentage: N. gigantea x N. 'White Colorata'
+            desc: >
+                Intersubgeneric water lily between Nymphaea and Anecphya. Flowers
+                are a bright purple with bright red pollen on yellow stamens. 
+                Highly attractive.
+        Nymphaea Leopardess:
+            desc: >
+                Large purple flowers with heavily variegated leaves.
+        Nymphaea Helvola:
+            parentage: N. pygmaea x N. mexicana
+        Nymphaea 'Rotkäppchen':
+            parentage: N. 'Perry's Fire Opal' x N. 'Wow'
+            desc: >
+                Fragrant, small pink flowers that highly resemble camellia. Breeder
+                describes them as like paeonies. Good flower:leaf size ratio, with 
+                12-13 cm flowers and 12 x 12 cm lily pads. Flowers float on the 
+                water surface.
+        Nymphaea Daubenyana:
+            habit: [floating, bulb, viviparous]
+            desc: >
+                Submerged foliage looks similar to Nymphaea zenkeri 'Red' but
+                much smaller. Very attractive.
+        Nymphaea Eros:
+            desc: >
+                Cute, on the smaller side. Green to reddish brown pads. Pink
+                flower with orange stamens.
+        Nymphaea 'Margaret Mary':
+            habit: [floating, bulb, viviparous]
+            climate: tropical
+            desc: >
+                Unusual highly cupped flowers, purple, held above the water. Leaves
+                form an uncanny unbroken mosaic shape.
+Rosaceae:
+    Eriobotrya:
+        Eriobotrya japonica:
+            name: [Loquat, 枇杷 (pei4 pa4)]
+            habit: [tree, food]
+            desc: >
+                To 10 meters (33 ft) tall, but often to 4 meters (13 ft).
+    Maleae:
+        Malinae:
+            Aronia:
+                desc: >
+                    Chokeberries. Ornamental and edible members.
+            Prunus:
+                Prunus americana:
+                    name: [American Plum, Wild Plum]
+                    habit: [xeric, spreading, tree]
+                    tags: [insect attractant, bird attractant, thorned]
+                    desc: >
+                        Fruits may be bitter and better suited for preserves or jellies. 
+                        Attractive small tree with reportedly unpleasantly scented flowers.
+            Pseudocydonia:
+                Pseudocydonia:
+                    name: [Chinese Quince, 花梨 (karin), 木瓜 (mu4 gua1), 모과 (mogwa)]
+                    habit: [tree]
+                    desc: >
+                        Used as an ornamental. Large fruits are astringent,
+                        and sometimes used for jams.
+            Cydonia:
+                Cydonia oblonga:
+                    name: [Quince]
+                    habit: [tree]
+                    desc: >
+                        Beautiful tree with large edible fruits. Ornamental
+                        large-petaled flowers.
+    Osteomeles:
+        Osteomeles anthyllidifolia:
+            name: [Ulei, Hawaiian Hawthorn]
+            desc: >
+                Ornamental plant with pinnatifid leaves.
+    Potentilla:
+        Potentilla fruticosa:
+            name: [Cinquefoil]
+            locality: [California, US]
+            tags: [bee, xeric, mesic]
+    Aruncus:
+        Aruncus dioicus:
+            name: [Goat's Beard, Buck's-Beard, Bride's Feathers]
+            tags: [naturalization]
+    Amelanchier:
+        Amelanchier arborea:
+            name: [Downy Serviceberry, Common Serviceberry]
+            habit: [tree]
+            attracts: [bird]
+            locality: [US, Eastern US]
+            desc: >
+                Young leaves have fuzz. Small to medium tree to 39 ft tall.
+                Slightly fragrant delicate white flowers. Excellent tree for
+                bird habitation.
+    Lyonothamnus:
+        Lyonothamnus floribundus:
+            name: [Catalina Ironwood]
+Boraginaceae:
+    Symphytum:
+        Symphytum x uplandicum:
+            name: [Comfrey]
+            habit: [rosette, ruderal]
+Elaeagnaceae:
+    Hippophae:
+        Hippophae rhamnoides:
+            name: [Seaberry, Sea Buckthorn]
+            tags: [nitrogen fixer, food]
+            desc: >
+                Dioecious. Orange berries edible. Bears thorns. Has symbiotic
+                relationship with Frankia sp. Leaves can be made into tea. The
+                tea reportedly tastes like a mild green tea.
+            links:
+                - Tea Recipe: https://urbannettle.com/2013/11/17/sea-buckthorn-tea/
+Rhamnaceae:
+    Rhamnus:
+        Rhamnus californica:
+            name: [California Coffeeberry]
+            locality: [California, US]
+            tags: [food, butterfly, bee, bird]
+Sapindaceae:
+    Sapindus:
+        Sapindus saponaria:
+        Sapindus mukorossi:
+    Aesculus:
+        Aesculus californica:
+            name: [California Buckeye, California Horse-Chestnut]
+            habit: [tree]
+            locality: [US, California]
+            tags: [butterfly]
+            desc: >
+                To 13 - 39 ft (4 - 12 m) in height.
+                Nectar is toxic to honeybees.
+Tamaricaceae:
+    Tamarix:
+        name: [Saltcedar]
+Bromeliaceae:
+    Billbergia:
+        Billbergia x windii:
+            name: [Angel's Tears]
+            desc: >
+                "Cries" nectar like the Queen's Tears.
+    Tillandsia:
+        Tillandsia leiboldiana:
+            habit: [hemiepiphyte]
+            desc: >
+                Colorful whorled bracts on pendant inflorescence. Small to medium
+                sized. 
+        Tillandsia narthecioides:
+            habit: [hemiepiphyte]
+            desc: >
+                Night fragrant flowers! Very unusual for Tillandsia.
+        Tillandsia bulbosa:
+        habit: [epiphyte, myrmecophyte]
+Pinaceae:
+    Abies:
+        Abies magnifica:
+    Pinus:
+        Pinus contorta murrayana:
+            locality: [Western US, California, US]
+            tags: []
+            desc: >
+                Evergreen shrub or tree to 10 ft in height. Fire-dependent,
+                requiring wildfires to maintain healthy populations of diverse
+                ages.
+        Pinus jeffreyi:
+            locality: [Western US, California, US]
+            tags: [xeric]
+            desc: >
+                Jeffrey pine is tolerant of serpentine soils and is often 
+                dominant in these conditions, even on dry sites at fairly 
+                low altitudes. On other soils, it only becomes dominant at 
+                higher altitudes where the usually faster-growing ponderosa 
+                pine (Pinus ponderosa) does not thrive. Jeffrey pine is more 
+                stress tolerant than the closely related Ponderosa pine 
+                (Pinus ponderosa). At higher elevations, on poorer soils, in 
+                colder climates, and in dryer climates, Jeffrey pine replaces 
+                ponderosa as the dominant tree.
+        Pinus ponderosa:
+            locality: [Western US, California, US]
+            desc: >
+                Large pine tree. Fire cycle is 5 to 10 years, in which natural
+                ignitions spark a low-intensity fire.
+    Tsuga:
+        Tsuga mertensiana:
+            desc: >
+                Not tolerant of drought.
+Poaceae:
+    Anthoxanthum:
+        Anthoxanthum nitens:
+            synonym: [Hierochloe odorata]
+            name: [Vanilla Grass, Holy Grass, Mary's Grass, Sweet Grass]
+        Anthoxanthum occidentale:
+            name: [Vanilla Grass, California Sweet Grass]
+            synonym: [Hierochloe occidentalis]
+            locality: [Western US, US, California]
+            desc: >
+                Sweetly scented foliage.
+    Bouteloua:
+        Bouteloua gracilis:
+            name: [Blue Grama]
+            tags: [xeric]
+            desc: >
+                Often planted alongside Buchloe dactyloides.
+    Bromus:
+        Bromus carinatus:
+            name: [California Brome]
+            tags: [xeric, ruderal]
+            desc: >
+                Used for habitat restoration. Improves water penetration with
+                its very deep and fast growing roots.
+            vendors: [watershednursery.com]
+    Buchloe:
+        Buchloe dactyloides:
+            name: [Buffalo Grass, Prairie Grass]
+            tags: [xeric]
+            locality: [US, Mexico, Canada]
+            desc: >
+                Often planted alongside Bouteloua gracilis.
+    Saccharum:
+        Saccharum officinarum:
+            name: [Sugarcane]
+            tags: [green manure, food]
+            desc: >
+                Leaves are said to make the best leaf mulch.
+    Setaria:
+        Setaria palmifolia:
+            locality: [Asia]
+            tags: [invasive, ornamental]
+            desc: >
+                Beautiful palm-like stems with broad leaves. Pushes out
+                native species and spread by seed-eating birds.
+Plantaginaceae:
+    Plantago:
+        habit: [rosette]
+        tag: [ruderal]
+    Platanaceae:
+        Platanus:
+            Platanus racemosa:
+                locality: [US, Western US, California]
+                desc: >
+                    Tall tree to 106 ft in height and 136 ft in width (spread). 
+                    Tolerates extreme heat and wind. 
+                links:
+                    - general: https://selectree.calpoly.edu/tree-detail/platanus-racemosa

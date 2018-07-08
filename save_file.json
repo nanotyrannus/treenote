@@ -1,0 +1,6037 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "locality": [
+                "Western US",
+                "Western North america",
+                "California"
+              ],
+              "name": "Acer macrophyllum",
+              "tag": [
+                "overstory",
+                "mesic"
+              ]
+            },
+            {
+              "locality": [
+                "California"
+              ],
+              "name": "Acer negundo californicum",
+              "tag": [
+                "deciduous"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "name": "Acer palmatum"
+            }
+          ],
+          "name": "Acer",
+          "tag": [
+            "overstory",
+            "mesic"
+          ]
+        }
+      ],
+      "name": "Aceraceae"
+    },
+    {
+      "children": [
+        {
+          "commonname": [
+            "Kiwi"
+          ],
+          "name": "Actinidia"
+        }
+      ],
+      "name": "Actinidiaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Blue Elderberry",
+                "Blue Elder"
+              ],
+              "locality": [
+                "California",
+                "Western US",
+                "US"
+              ],
+              "name": "Sambucus caerulea",
+              "synonym": [
+                "Sambucus nigra caerulea"
+              ],
+              "tag": [
+                "edible",
+                "bird",
+                "mesic"
+              ]
+            },
+            {
+              "commonname": [
+                "Elder",
+                "Elderberry",
+                "Black Elder"
+              ],
+              "desc": "Hollow stems. Berries useful for cuisine.",
+              "locality": [
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Sambucus nigra",
+              "tag": [
+                "bush",
+                "food",
+                "butterfly",
+                "riparian",
+                "mesic",
+                "understory"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Red Elderberry"
+              ],
+              "desc": "Fruit leather\n\nhttp://arcadianabe.blogspot.com/2013/07/red-elderberry-experiment-1.html",
+              "locality": [
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Sambucus racemosa",
+              "tag": [
+                "edible",
+                "mesic",
+                "sand",
+                "bird"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Sambucus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Nannyberry",
+                "Sheepberry",
+                "Sweet Viburnum"
+              ],
+              "desc": "Tolerant of moisture. Wood foul smelling (when cut?). Flowers sweetly fragrant. Small tree to 30 ft. Fruit sweet and edible and attractive to birds. Long lived to 150 years.\n\nLow root damage potential.\n\nhttps://selectree.calpoly.edu/tree-detail/viburnum-lentago",
+              "locality": [
+                "Northeastern US",
+                "US"
+              ],
+              "name": "Viburnum lentago",
+              "tag": [
+                "fragrant",
+                "xeric",
+                "mesic",
+                "edible",
+                "bird",
+                "deciduous"
+              ]
+            }
+          ],
+          "name": "Viburnum"
+        }
+      ],
+      "name": "Adoxaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Chamiso",
+                "Four Wing Saltbush"
+              ],
+              "desc": "Candidate for bioremediation of saline soils. Eat the tissue to remove salt from the environment. Salt is concentrated in glands in the leaves.\n\nLeaves can be eaten raw.\nSeeds can be made into flour.\n\nhttp://www.ethnoherbalist.com/southern-california-native-plants-medicinal/four-wing-saltbush/",
+              "locality": [
+                "Western US",
+                "Midwestern US",
+                "California"
+              ],
+              "name": "Atriplex canescens",
+              "tag": [
+                "xeric",
+                "halophytic",
+                "edible"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Quail Bush",
+                "Big Saltbrush",
+                "Qualbrush",
+                "Lenscale",
+                "White Thistle"
+              ],
+              "desc": "Flowers, fruit, and leaves are edible. Could be used as an interesting method of bioremediation to remove salt from the soil.\n\n\nhttps://www.laspilitas.com/nature-of-california/plants/105--atriplex-lentiformis-breweri",
+              "locality": [
+                "California",
+                "Mexico",
+                "Southwestern US",
+                "US"
+              ],
+              "name": "Atriplex lentiformis",
+              "tag": [
+                "halophytic",
+                "rheophytic",
+                "xeric",
+                "ruderal",
+                "bird",
+                "clay",
+                "edible"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Atriplex"
+        }
+      ],
+      "name": "Amaranthaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Laurel Sumac",
+                "Lentisco"
+              ],
+              "desc": "Racemes of white flowers smell of green apples.\n\nCulture and Germination: \"https://www.fs.fed.us/database/feis/plants/shrub/mallau/all.html\"",
+              "name": "Malosma laurina",
+              "tag": [
+                "xeric",
+                "chaparral",
+                "fire",
+                "evergreen",
+                "bush"
+              ]
+            }
+          ],
+          "name": "Malosma"
+        },
+        {
+          "name": "Mangifera"
+        }
+      ],
+      "name": "Anacardiaceae"
+    },
+    {
+      "children": [
+        {
+          "name": "Annona"
+        },
+        {
+          "children": [
+            {
+              "desc": "Fast growing sun loving tree to 49 ft.",
+              "name": "Rollinia deliciosa",
+              "tag": [
+                "food",
+                "overstory"
+              ]
+            }
+          ],
+          "name": "Rollinia"
+        }
+      ],
+      "name": "Annonaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Angelica californica"
+            }
+          ],
+          "name": "Angelica"
+        },
+        {
+          "children": [
+            {
+              "name": "Chaerophyllum bulbosum"
+            }
+          ],
+          "name": "Chaerophyllum"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Wild Anise"
+              ],
+              "desc": "Non-native host for Papilio zelicaon.",
+              "name": "Foeniculum vulgare",
+              "tag": [
+                "butterfly",
+                "food"
+              ]
+            }
+          ],
+          "name": "Foeniculum"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Yampah"
+              ],
+              "locality": [
+                "Western US",
+                "US",
+                "Californica"
+              ],
+              "name": "Perideridia",
+              "tag": [
+                "dynamic accumulator",
+                "ruderal"
+              ]
+            }
+          ],
+          "commonname": [
+            "Yampah"
+          ],
+          "locality": [
+            "Western US",
+            "US",
+            "California"
+          ],
+          "name": "Perideridia",
+          "tag": [
+            "dynamic accumulator",
+            "naturalization"
+          ]
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Anise",
+                "Aniseed"
+              ],
+              "name": "Pimpinella anisum",
+              "tag": [
+                "food"
+              ]
+            }
+          ],
+          "name": "Pimpinella"
+        }
+      ],
+      "name": "Apiaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Bloodflower",
+                "Mexican Milkweed"
+              ],
+              "desc": "Host plant for various butterflies. Perennial Ascelpias that should be cut down in late fall to prevent transfer of pathogens between generations of butterflies.",
+              "locality": [
+                "Pantropical"
+              ],
+              "name": "Asclepias curassavica",
+              "tag": [
+                "butterfly",
+                "xeric",
+                "nectar"
+              ],
+              "vendor": [
+                "Annies Annuals"
+              ]
+            },
+            {
+              "commonname": [
+                "Swamp Milkweed"
+              ],
+              "locality": [
+                "US",
+                "Midwestern US",
+                "Eastern US"
+              ],
+              "name": "Asclepias incarnata",
+              "tag": [
+                "butterfly",
+                "nectar",
+                "fragrant",
+                "riparian",
+                "palustrine"
+              ],
+              "vendor": [
+                "various"
+              ]
+            }
+          ],
+          "name": "Asclepias"
+        },
+        {
+          "children": [
+            {
+              "desc": "Probably annual bloomer. Extremely fragrant, one of the most fragrant hoyas.",
+              "name": "Hoya australis tenuipes",
+              "tag": [
+                "fragrant",
+                "vine"
+              ]
+            },
+            {
+              "desc": "Smells like jasmine.\n\n\"The flowers are extremely fragrant, but have a short lifespan of around 4 days.  I have found that this Hoya likes to be grown warm and humid or can easily be susceptible to root rot.  I lost all of the buds from multiple peduncles when I over watered in a cool greenhouse. I got it to re-bud and open flowers quickly by re-potting with a two inch layer of hydroton on the bottom of the pot, and placing the plant into a very warm and humid grow-tent.\"\n\nhttps://vermonthoyas.com/hoya-species/hoya-bhutanica/",
+              "name": "Hoya bhutanica",
+              "tag": [
+                "fragrant",
+                "vine"
+              ]
+            },
+            {
+              "desc": "\"A fast grower and an early bloomer. The bloom color is so unique and different than any other Hoya! The glossy corolla is tomato red color and the corona is off white to light pink. In my opinion, the flowers smell like lemon zest. My mother plant bloomed in less than 6 months from a small plant and then it become a frequent bloomer (literally all the time for me). The leaves on this Hoya are thick, glabrous, shiny with visible veins. This Hoya is sort of new in the market. I think most collectors see it as a must have. I would even recommend it to a beginner.\"\n\ngardinonursery",
+              "locality": [
+                "Philippines"
+              ],
+              "name": "Hoya ilagiorum",
+              "tag": [
+                "fragrant",
+                "vine"
+              ],
+              "vendor": [
+                "srqhoyas.com",
+                "gardinonursery.com"
+              ]
+            },
+            {
+              "desc": "\"The first time I saw Hoya incrassata at Selby Gardens in Sarasota, FL I fell in love with it. The foliage is so elegant and more beautiful than Hoya crassicaulis. I got a cutting from the Selby curator and it grew really fast and started to bloom less than a year later. Hoya incrassata has very pretty yellow flowers with red tips and white corona. This Hoya blooms non-stop through out the warm months when mature and the flowers have a really nice citrus fragrance. My mother plant is always loaded with several clusters at a time.\"\n\nhttp://gardinonursery.com/hoyas/1422-hoya-incrassata.html",
+              "name": "Hoya incrassata",
+              "tag": [
+                "fragrant",
+                "vine"
+              ]
+            },
+            {
+              "desc": "\"EPC-777 - I am loving this hoya that grows little bow ties for leaves - growing from a rooted cutting was without issues - the greenery starts out a bit pubescent - the trumpet-shaped goldenrod-colored flowers are tiny but beautiful and full of dark red sap that does not ever drip - peduncles develop at many nodes along the upright vines - this one has larger leaves than the other Hoya manipurensis species I grow - this is a fast grower with little or no care aside from the normal light and moisture - the sap is very sweet when it touches my tongue\"\n\nsrqhoyas.com",
+              "name": "Hoya manipurensis",
+              "tag": [
+                "vine"
+              ],
+              "vendor": [
+                "srqhoyas.com"
+              ]
+            },
+            {
+              "desc": "\"The species has appealing glossy green leaves with a pretty vein pattern. The leaves will turn beautiful shades of reds and purples if you expose it to high light (not full sun). The venation intensifies with these stunning colors. I would recommend for the foliage lovers.\nOnce established, it produces fragrant yellow flowers. This species is a reliable bloomer for me during the warm months.\"\n\ngardino nursery",
+              "locality": [
+                "Philippines"
+              ],
+              "name": "Hoya merrillii",
+              "tag": [
+                "fragrant",
+                "vine"
+              ],
+              "vendor": [
+                "gardinonursery.com"
+              ]
+            },
+            {
+              "desc": "\"This Hoya is native to Hat Som Paen in Thailand. It has very attractive, medium size, dark green foliage that sometimes develop some silver flecks.\nThe flowers are so lovely! The corolla is all white and the corona is big and really pops. It is dark pink color with light pink edges. There is yellow color under the corona which really goes nicely with all the colors. Sometimes the yellow is more prominent and it makes the flowers even more stunning. The flowers also have a delicious spicy scent. This hoya blooms frequently for me once established.\"\n\ngardinonursery",
+              "name": "Hoya sp. Hat Som Paen IML 1438",
+              "tag": [
+                "fragrant",
+                "vine",
+                "undescribed"
+              ],
+              "vendor": [
+                "grandinonursery.com"
+              ]
+            },
+            {
+              "desc": "\"I received Hoya stoneana as a small rooted cutting from Joni at SRQ Hoyas in June of 2012.  The plant came with the name Hoya siamica and I grew it as such until I found out in summer of 2014 that it was in fact Hoya stoneana.  It grew well from the start and produced numerous peduncles all to no effect.  The peduncles would also form annular rings like it had flowered many times before, but alas I could never spot the formation of any buds.  I do believe that the plant did form buds but they were too small to see with the naked eye, and they would abort immediately and thus created the peduncle rings.  Finally in the spring of 2014 I put the plant directly outdoors where it would get dappled sunshine and be exposed to temperatures as low as the mid 40\u00b0s.  It did not take long after that cool weather exposure to set buds and keep them.  It flowered in July and many times during that summer.\n\nThe flowers are very strongly fragrant and will perfume an entire house.  I would not say that they are the most pleasing to the nose; smelling somewhat floral with a strong dash of chlorine thrown in for good measure. \"\n\nhttps://vermonthoyas.com/hoyas-n-z/hoya-siamica/",
+              "name": "Hoya stoneana",
+              "tag": [
+                "fragrant",
+                "vine"
+              ]
+            },
+            {
+              "desc": "\"Hoya surigaoensis IML1693. Look at the rachis. It has bloomed for me year around. Great Hoya!\"\n\nhttps://twitter.com/hoyaplants/status/663730472745308160\n\nPossible nocturnal fragrance of coconut.",
+              "locality": [
+                "Surigao",
+                "Philippines"
+              ],
+              "name": "Hoya surigaoensis",
+              "tag": [
+                "fragrant",
+                "vine"
+              ]
+            }
+          ],
+          "name": "Hoya"
+        },
+        {
+          "children": [
+            {
+              "desc": "Nocturnally fragrant flowers.",
+              "locality": [
+                "Sonora",
+                "Arizona"
+              ],
+              "name": "Macrosiphonia brachysiphon",
+              "tag": [
+                "fragrant",
+                "bush"
+              ]
+            }
+          ],
+          "name": "Macrosiphonia"
+        }
+      ],
+      "name": "Apocynaceae"
+    },
+    {
+      "children": [
+        {
+          "name": "Anthurium"
+        },
+        {
+          "name": "Arum"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Swiss Cheese Plant"
+              ],
+              "name": "Monstera deliciosa",
+              "tag": [
+                "vine",
+                "edible"
+              ]
+            }
+          ],
+          "name": "Monstera"
+        },
+        {
+          "name": "Spathiphyllum"
+        }
+      ],
+      "name": "Araceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Medium sized elephant ear with oblong-lanceolate leaves.",
+              "name": "Alocasia Boa"
+            },
+            {
+              "desc": "Small to medium sized elephant ear, cute.",
+              "name": "Alocasia gageana"
+            },
+            {
+              "commonname": [
+                "Purple Sword"
+              ],
+              "desc": "To 4 ft. Attractive saggitate-lanceolate leaves.    ",
+              "name": "Alocasia lauterbachiana"
+            }
+          ],
+          "name": "Alocasia"
+        },
+        {
+          "children": [
+            {
+              "desc": "White or purple bract with pink spadix. Flowers scented.",
+              "name": "Anthurium amnicola",
+              "tag": [
+                "epiphyte",
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "Bee pollinated.",
+              "name": "Anthurium formosum",
+              "tag": [
+                "epiphyte"
+              ]
+            }
+          ],
+          "name": "Anthurium"
+        },
+        {
+          "children": [
+            {
+              "name": "Philodendron gloriosum",
+              "tag": [
+                "terrestrial"
+              ]
+            },
+            {
+              "desc": "Green leaves tinged with purple. Hirsute.",
+              "name": "Philodendron hastatum",
+              "synonym": [
+                "Philodendron glaucophyllum"
+              ],
+              "tag": [
+                "hemiepiphyte"
+              ]
+            },
+            {
+              "desc": "Often called incorrectly \"Philodendron cannifolium\". Found as an epiphyte and rarely a terrestrial, this plant has attractive bulb-like petioles and grows in a rosette.",
+              "name": "Philodendron martianum",
+              "synonym": [
+                "Philodendron cannifolium"
+              ],
+              "tag": [
+                "epiphyte",
+                "rosette"
+              ]
+            },
+            {
+              "name": "Philodendron melanochrysum",
+              "tag": [
+                "epiphyte"
+              ]
+            }
+          ],
+          "name": "Philodendron"
+        }
+      ],
+      "name": "Araceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Jelly Palm",
+                "Pindo Palm"
+              ],
+              "desc": "Short for a palm. Fruit can be eaten raw, made into wine, or processed into jelly. Fruit does not keep long, even when refrigerated.",
+              "name": "Butia capitata",
+              "tag": [
+                "food",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Butia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Desert Fan Palm",
+                "California Fan Palm"
+              ],
+              "desc": "Fruit traditionally eaten by native americans. May be resistant to red palm weevil, but there are known infestations.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Washingtonia filifera",
+              "tag": [
+                "xeric",
+                "tree",
+                "overstory"
+              ]
+            }
+          ],
+          "name": "Washingtonia"
+        }
+      ],
+      "name": "Arecaceae"
+    },
+    {
+      "children": [
+        {
+          "name": "Aristolochia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Wild Ginger"
+              ],
+              "locality": [
+                "Western US",
+                "California"
+              ],
+              "name": "Asarum caudatum",
+              "tag": [
+                "mesic",
+                "understory",
+                "clay"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Asarum"
+        }
+      ],
+      "name": "Aristolochiaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Achillea millefolium 'Cameo'"
+            },
+            {
+              "name": "Achillea millefolium 'Paprika'"
+            }
+          ],
+          "name": "Achillea"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Brownfoot",
+                "Perezia"
+              ],
+              "desc": "Flowers have a honey scent.",
+              "locality": [
+                "Arizona",
+                "US"
+              ],
+              "name": "Acourtia wrightii",
+              "tag": [
+                "xeric",
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Acourtia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Sagebrush"
+              ],
+              "locality": [
+                "California",
+                "Wstern US",
+                "US"
+              ],
+              "name": "Artemisa tridentata",
+              "tag": [
+                "brush"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "California Mugwort",
+                "Douglas' Sagewort",
+                "Dream Plant"
+              ],
+              "desc": "Its stems grow from a substantial colony of rhizomes which require a minimum soil depth of 16 cm and can grow in fine to coarse soils. The stems grow erect and range in height from 0.5\u20132.5 metres (1.6\u20138.2 ft). Although A. douglasiana can reproduce from seed, it's primarily propagated from division and spreading of its underground rhizomes. The extensive rhizomes help prevent erosion by stabilizing streambanks.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Artemisia douglasiana",
+              "tag": [
+                "ruderal",
+                "perennial"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Artemisia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Japanese Aster"
+              ],
+              "desc": "Late blooomer for an Aster. Medium bush to 2 ft x 2+ ft.",
+              "name": "Aster ageratoides 'Ezo Murasaki'",
+              "tag": [
+                "bush"
+              ]
+            }
+          ],
+          "name": "Aster"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Coyote Bush"
+              ],
+              "desc": "Drought tolerant bush with asteroid flowers. Attracts beneficial insects and birds.",
+              "name": "Baccharis pilularis consanguinea",
+              "tag": [
+                "bush",
+                "xeric"
+              ]
+            },
+            {
+              "name": "Baccharis salicifolia"
+            },
+            {
+              "commonname": [
+                "Desertbroom Baccharis"
+              ],
+              "name": "Baccharis sarothroides"
+            }
+          ],
+          "name": "Baccharis"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Arrowleaf Balsamroot"
+              ],
+              "desc": "Bright orange-yellow flowers appear May-June. Native to Californian deserts. Hairy stem. Taproot. Goes dormant after flowering. May not flower in first year.",
+              "name": "Balsamorhiza sagittata",
+              "tag": [
+                "xeric",
+                "bee"
+              ]
+            }
+          ],
+          "name": "Balsamorhiza"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Chocolate Flower"
+              ],
+              "desc": "Wafting scent of chocolate. Low growing dandelion-like rosette with long-stemmed flowers. Maybe good candidate for polyculture.",
+              "name": "Berlandiera lyrata",
+              "tag": [
+                "forb",
+                "xeric",
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Berlandiera"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Bidens laevis",
+              "tag": [
+                "riparian",
+                "mesic",
+                "butterfly"
+              ]
+            }
+          ],
+          "desc": "Bidens are edible and keep well. As a potherb, they have good texture when cooked. It is not recommended to eat the raw leaves as they may have a high saponin level.\n\nhttp://www.eattheweeds.com/spanish-needles-pitchfork-weed/",
+          "name": "Bidens",
+          "tag": [
+            "edible"
+          ]
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "False Aster",
+                "White Doll's Daisy",
+                "False Chamomile"
+              ],
+              "desc": "Good candidate for lawn.",
+              "name": "Boltonia asteroides",
+              "tag": [
+                "bush"
+              ]
+            }
+          ],
+          "name": "Boltonia"
+        },
+        {
+          "children": [
+            {
+              "desc": "Yellow flowers.",
+              "locality": [
+                "US",
+                "California",
+                "Western US"
+              ],
+              "name": "Chaenactis glabriuscula",
+              "tag": [
+                "xeric",
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Chaenactis"
+        },
+        {
+          "children": [
+            {
+              "name": "Chamaemelum nobile",
+              "tag": [
+                "fragrant",
+                "food"
+              ]
+            }
+          ],
+          "name": "Chamaemelum"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Horseweed"
+              ],
+              "desc": "Hardy weed plant. Good for naturalization. Some may experience irritation on contact.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Conyza canadensis",
+              "tag": [
+                "ruderal"
+              ]
+            }
+          ],
+          "name": "Conyza"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Fringeleaf Tickseed"
+              ],
+              "locality": [
+                "US",
+                "Southeastern US"
+              ],
+              "name": "Coreopsis integrifolia",
+              "tag": [
+                "herb",
+                "mesic",
+                "shade"
+              ]
+            }
+          ],
+          "name": "Coreopsis"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "California Aster"
+              ],
+              "desc": "Host plant for a native butterfly. Nectar plant for many other insects. ",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Corethrogyne filaginifolia",
+              "synonym": [
+                "Lessingia filaginifolia"
+              ],
+              "tag": [
+                "xeric",
+                "butterfly",
+                "nectar",
+                "halophytic"
+              ],
+              "vendor": [
+                "Las Pilitas",
+                "Annies Annuals"
+              ]
+            }
+          ],
+          "name": "Corethrogyne"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Cardoon"
+              ],
+              "desc": "Large thistle tribe member. Stalks can be used like palm heart.",
+              "name": "Cynara cardunculus",
+              "tag": [
+                "food",
+                "forb"
+              ]
+            }
+          ],
+          "name": "Cynara"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Weeping Tree Dahlia"
+              ],
+              "locality": [
+                "Oaxaca",
+                "Mexico"
+              ],
+              "name": "Dahlia campanutala",
+              "tag": [
+                "tuberous"
+              ],
+              "vendor": [
+                "cultivariable"
+              ]
+            },
+            {
+              "commonname": [
+                "Bell Tree Dahlia"
+              ],
+              "locality": [
+                "Central Mexico",
+                "Panama"
+              ],
+              "name": "Dahlia imperialis",
+              "tag": [
+                "tuberous"
+              ],
+              "vendor": [
+                "cultivariable",
+                "strangewonderfulthings"
+              ]
+            },
+            {
+              "commonname": [
+                "Everblooming Tree Dahlia"
+              ],
+              "desc": "Blooms all year.",
+              "name": "Dahlia tenuicaulis",
+              "tag": [
+                "cold deciduous",
+                "understory"
+              ],
+              "vendor": [
+                "strangewonderfulthings"
+              ]
+            }
+          ],
+          "desc": "Dahlia stems are hollow and can be used for various things.",
+          "name": "Dahlia",
+          "tag": [
+            "food",
+            "utility"
+          ]
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Brittlebush"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Encelia farinosa",
+              "tag": [
+                "bush",
+                "xeric",
+                "bee"
+              ]
+            }
+          ],
+          "name": "Encelia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Narrowleaf Goldenbush"
+              ],
+              "name": "Ericameria linearifolia",
+              "tag": [
+                "xeric",
+                "butterfly",
+                "bee"
+              ],
+              "vendor": [
+                "Las Pilitas",
+                "Watershed Nursery"
+              ]
+            }
+          ],
+          "name": "Ericameria"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "Baja California",
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Eriophyllum confertiflorum",
+              "tag": [
+                "butterfly larval host"
+              ]
+            }
+          ],
+          "name": "Eriophyllum"
+        },
+        {
+          "children": [
+            {
+              "name": "Eupatorium maculatum"
+            }
+          ],
+          "name": "Eupatorium"
+        },
+        {
+          "locality": [
+            "US",
+            "California",
+            "Western US"
+          ],
+          "name": "Gaillardia",
+          "tag": [
+            "bee",
+            "butterfly"
+          ]
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Hairy Gumplant"
+              ],
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Grindelia hirsutula",
+              "tag": [
+                "xeric",
+                "halophytic",
+                "clay",
+                "serpentine",
+                "butterfly"
+              ]
+            }
+          ],
+          "name": "Grindelia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Longevity Spinach"
+              ],
+              "name": "Gynura procumbens",
+              "tag": [
+                "food",
+                "perennial"
+              ]
+            }
+          ],
+          "name": "Gynura"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Narrowleaf Goldenbush"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Haplopappus linearifolius",
+              "tag": [
+                "xeric",
+                "bush"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Haplopappus"
+        },
+        {
+          "name": "Helianthella"
+        },
+        {
+          "children": [
+            {
+              "desc": "Native perennial sunflower growing in chaparral and woodland communities throughout much of California. Forms clumps of dark green, lance shaped leaves under a foot tall.  Blooms April through June with small, golden-yellow sunflower heads which rise above foliage 18 inches to 2 ft. tall.  Plant in full sun to light shade where it will be quite drought tolerant once established. The flowers attract a wide array of pollinators and beneficial insects.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Helianthella californica"
+            }
+          ],
+          "name": "Helianthella"
+        },
+        {
+          "name": "Helianthus"
+        },
+        {
+          "children": [
+            {
+              "name": "Helianthus decapetalus"
+            },
+            {
+              "desc": "Double form.",
+              "name": "Helianthus decapetalus 'Plenus'"
+            },
+            {
+              "commonname": [
+                "Showy Sunflower"
+              ],
+              "desc": "Inhabits sand dunes. Short lived perennial.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Helianthus niveus",
+              "tag": [
+                "xeric",
+                "sand"
+              ],
+              "vendor": [
+                "rsabg"
+              ]
+            },
+            {
+              "name": "Helianthus tuberosus"
+            },
+            {
+              "desc": "Short cultivar.",
+              "name": "Helianthus tuberosus 'Dwarf Sunray'"
+            }
+          ],
+          "name": "Helianthus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Milford Everlasting"
+              ],
+              "locality": [
+                "South Africa"
+              ],
+              "name": "Helichrysum milfordiae",
+              "tag": [
+                "xeric",
+                "lithophytic",
+                "botanical"
+              ]
+            }
+          ],
+          "name": "Helichrysum"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Lasthenia californica",
+              "tag": [
+                "annual",
+                "mesic",
+                "xeric",
+                "bee"
+              ]
+            },
+            {
+              "name": "Lasthenia coronaria"
+            }
+          ],
+          "name": "Lasthenia"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Layia platyglossa",
+              "tag": [
+                "annual",
+                "woodland",
+                "mesic",
+                "xeric",
+                "bee",
+                "fragrant"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            }
+          ],
+          "name": "Layia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Sea Dahlia"
+              ],
+              "desc": "The stems are hollow, fragile and often floppy. Plants bloom in late winter to early summer, with normally one or two flower heads per stem, on 15 to 30 centimeters long peduncles, but sometimes 4 or more flowers can be found per stem.",
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Leptosyne maritima",
+              "synonym": [
+                "Coreopsis maritima"
+              ],
+              "tag": [
+                "halophytic",
+                "xeric",
+                "taproot"
+              ],
+              "vendor": [
+                "Yerba Buena"
+              ]
+            }
+          ],
+          "name": "Leptosyne"
+        },
+        {
+          "desc": "Some members have deep roots to 12 ft. Useful for stabilization.",
+          "name": "Liatris"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "German Chamomile",
+                "Scented Mayweed"
+              ],
+              "name": "Matricaria chamomilla",
+              "tag": [
+                "food",
+                "fragrant",
+                "annual",
+                "ruderal"
+              ]
+            },
+            {
+              "commonname": [
+                "Pineappleweed",
+                "Wild Chamomile",
+                "Disc Mayweed"
+              ],
+              "desc": "Edible as salad green and tea. Valuable ruderal.",
+              "locality": [
+                "North America"
+              ],
+              "name": "Matricaria discoidea",
+              "tag": [
+                "annual",
+                "ruderal",
+                "fragrant",
+                "edible"
+              ]
+            }
+          ],
+          "name": "Matricaria"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Blackfoot Daisy"
+              ],
+              "desc": "Long bloom period from March to November. Attractive native. Light honey fragrance.",
+              "locality": [
+                "Sonora",
+                "California",
+                "US"
+              ],
+              "name": "Melampodium leucanthemum",
+              "tag": [
+                "groundcover",
+                "fragrant",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Melampodium"
+        },
+        {
+          "name": "Olearia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Fremont Groundsel",
+                "Rock Groundsel"
+              ],
+              "locality": [
+                "US",
+                "California"
+              ],
+              "name": "Packera obovata",
+              "tag": [
+                "bee"
+              ]
+            },
+            {
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Packera pseudaurea"
+            }
+          ],
+          "name": "Packera"
+        },
+        {
+          "name": "Senecio"
+        },
+        {
+          "children": [
+            {
+              "desc": "Dwarf cultivar.",
+              "name": "Solidago Little Lemon"
+            },
+            {
+              "commonname": [
+                "Late Goldenrod"
+              ],
+              "name": "Solidago gigantea",
+              "tag": [
+                "mesic"
+              ]
+            },
+            {
+              "commonname": [
+                "Showy Goldenrod"
+              ],
+              "name": "Solidago spectabilis",
+              "tag": [
+                "mesic"
+              ]
+            },
+            {
+              "commonname": [
+                "Californian Goldenrod"
+              ],
+              "name": "Solidago velutina californica",
+              "synonym": [
+                "Solidago californica"
+              ],
+              "tag": [
+                "mesic",
+                "xeric",
+                "bee"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "desc": "Cascade Creek goldenrod is a superior form of this native discovered by master plantsman Roger Raiche.  The flower heads \nare large and compact and do not flop like other types. Perfectfor habitat gardeners in low and very low water conditions it will attract a variety of creatures like native butterflies and other pollinators to the garden in summer and fall.",
+              "name": "Solidago velutina californica 'Cascade Creek'"
+            }
+          ],
+          "name": "Solidago"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Panicled Aster"
+              ],
+              "locality": [
+                "US",
+                "Western US",
+                "Eastern US"
+              ],
+              "name": "Symphyotrichum lanceolatum",
+              "vendor": [
+                "Prairie Moon"
+              ]
+            }
+          ],
+          "name": "Symphyotrichum",
+          "synonym": [
+            "Aster"
+          ]
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Mexican Tarragon"
+              ],
+              "name": "Tagetes lucida",
+              "tag": [
+                "perennial",
+                "bush",
+                "edible"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Tagetes"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Feverfew"
+              ],
+              "name": "Tanacetum parthenium",
+              "tag": [
+                "medicinal"
+              ]
+            }
+          ],
+          "name": "Tanacetum"
+        },
+        {
+          "name": "Taraxacum"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Mexican Sunflower"
+              ],
+              "desc": "Enjoys hot weather. Drought tolerant. Good candidate as annual biomass producer.",
+              "name": "Tithonia rotundifolia",
+              "tag": [
+                "annual",
+                "butterfly",
+                "hummingird"
+              ]
+            }
+          ],
+          "name": "Tithonia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Purple Salsify",
+                "Common Salsify",
+                "Oyster Plant"
+              ],
+              "desc": "Ornamental purplish-pink flower. Edible tubers. Wind dispersed seeds.",
+              "name": "Tragopogon porrifolius",
+              "tag": [
+                "food",
+                "rosette",
+                "biennial"
+              ]
+            }
+          ],
+          "name": "Tragopogon"
+        },
+        {
+          "name": "Vernonia"
+        },
+        {
+          "name": "Wyethia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Desert Zinnia"
+              ],
+              "desc": "Native from southern Arizona to west Texas, this semi-woody perennial has gray-green needlelike leaves. In the summer it is covered with many small, papery white flowers with orange centers.The persistent flower petals turn tan and papery. Plant in full sun and well-drained soils. ",
+              "locality": [
+                "Arizona",
+                "US"
+              ],
+              "name": "Zinnia acerosa",
+              "tag": [
+                "xeric",
+                "groundcover"
+              ]
+            }
+          ],
+          "name": "Zinnia"
+        }
+      ],
+      "name": "Asteraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Lady Fern",
+                "Common Lady-Fern"
+              ],
+              "desc": "Edible-ish young fronds.",
+              "locality": [
+                "Northern Hemisphere"
+              ],
+              "name": "Athyrium filix-femina",
+              "tag": [
+                "understory",
+                "edible"
+              ]
+            }
+          ],
+          "name": "Athyrium"
+        }
+      ],
+      "name": "Athyriaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Dense prickly impassible foliage. Good hedge to grow unpruned. Great wildlife value.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Mahonia nevinii",
+              "synonym": [
+                "Berberis nevinii"
+              ],
+              "tag": [
+                "xeric",
+                "bush",
+                "bird",
+                "hummingbird",
+                "butterfly",
+                "windbreak"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Mahonia"
+        }
+      ],
+      "name": "Berberidaceae",
+      "tag": [
+        "juglone tolerant",
+        "understory"
+      ]
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Desert Willow"
+              ],
+              "desc": "Fast growing with willow-like leaves. Has dormancy period. Hummingbirds like to nest in this tree in the summer.",
+              "locality": [
+                "US",
+                "California",
+                "Western US"
+              ],
+              "name": "Chilopsis linearis",
+              "tag": [
+                "fragrant",
+                "hummingbird",
+                "xeric",
+                "deciduous"
+              ]
+            }
+          ],
+          "name": "Chilopsis"
+        },
+        {
+          "children": [
+            {
+              "name": "Jacaranda mimosifolia",
+              "tag": [
+                "xeric",
+                "tree",
+                "overstory"
+              ]
+            }
+          ],
+          "name": "Jacaranda"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Tree Jasmine",
+                "Indian Cork Tree"
+              ],
+              "name": "Millingtonia hortensis",
+              "tag": [
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Millingtonia"
+        },
+        {
+          "children": [
+            {
+              "desc": "A very beautiful deciduous tree to 25 feet tall with smooth dark green palmately compund leaves and furrowed light gray bark. The 2-3 inch long lavender-pink flowers with yellow centers appear in clusters in early spring, covering the bare branches. Unlike its yellow relative, Tabebuia chrysotricha this tree takes several years to flower, but its worth the wait! Tabebuia species are generally known for their tolerance to coastal conditions but this plant prefers a warm sunny site away from the beach. Plant in a warm spot for best floral display. Listed as hardy to 24\u00b0 but survived 18\u00b0 without damage in the freeze of December 1990 in the nursery garden. Tabebuia impetiginosa was introduced into cultivation in Southern California in 1964 by the Los Angeles State and County Arboretum in Arcadia where the largest specimen in California puts on its floral display annually. ",
+              "name": "Tabebuia impetiginosa",
+              "tag": [
+                "tree"
+              ]
+            }
+          ],
+          "name": "Tabebuia"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "South Africa"
+              ],
+              "name": "Tecoma capensis",
+              "synonym": [
+                "Tecomaria capensis"
+              ],
+              "tag": [
+                "xeric",
+                "hummingbird",
+                "butterfly",
+                "bush",
+                "semi-shade",
+                "full sun"
+              ]
+            },
+            {
+              "desc": "Attractive fragrant yellow flowers. Warm bloomer.\n\nhttps://selectree.calpoly.edu/tree-detail/tecoma-stans",
+              "locality": [
+                "Mexico"
+              ],
+              "name": "Tecoma stans",
+              "tag": [
+                "xeric",
+                "bee",
+                "butterfly",
+                "hummingbird",
+                "bush",
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Tecoma"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "New Guinea Trumpet Vine",
+                "Forest Bell Creeper"
+              ],
+              "desc": "Highly ornamental. Blooms in dry season. ",
+              "locality": [
+                "Southeast Asia"
+              ],
+              "name": "Tecomanthe dendrophila",
+              "synonym": [
+                "Tecomanthe venusta"
+              ],
+              "tag": [
+                "epiphytic",
+                "vine",
+                "deciduous"
+              ],
+              "vendor": [
+                "karutz"
+              ]
+            }
+          ],
+          "name": "Tecomanthe"
+        }
+      ],
+      "name": "Bignoniaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Borage"
+              ],
+              "locality": [
+                "Europe"
+              ],
+              "name": "Borago officinalis",
+              "tag": [
+                "dynamic accumulator",
+                "bee"
+              ]
+            }
+          ],
+          "name": "Borago"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Baby Blue Eyes"
+              ],
+              "locality": [
+                "US",
+                "California",
+                "Western US"
+              ],
+              "name": "Nemophila menziesii",
+              "tag": [
+                "annual",
+                "bee",
+                "xeric",
+                "butterfly"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Nemophila"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Phacelia californica",
+              "tag": [
+                "xeric",
+                "bee",
+                "ruderal"
+              ]
+            },
+            {
+              "commonname": [
+                "Blue Tansy",
+                "Purple Tansy"
+              ],
+              "locality": [
+                "Western US",
+                "Californica"
+              ],
+              "name": "Phacelia tanacetifolia",
+              "tag": [
+                "xeric",
+                "taproot",
+                "annual",
+                "bee",
+                "dynamic accumulator",
+                "hoverfly",
+                "nectar"
+              ]
+            }
+          ],
+          "name": "Phacelia"
+        }
+      ],
+      "name": "Boraginaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Sea Kale"
+              ],
+              "desc": "Flowers honey scented! Leaves can be blanched. Mature leaves can be boiled or fried.",
+              "name": "Crambe maritima",
+              "tag": [
+                "tuberous",
+                "edible",
+                "halophyte",
+                "fragrant"
+              ],
+              "vendor": [
+                "cultivariable"
+              ]
+            }
+          ],
+          "name": "Crambe"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Eastern Tansymustard"
+              ],
+              "locality": [
+                "North America"
+              ],
+              "name": "Descuraina pinnata",
+              "tag": [
+                "ruderal",
+                "forage",
+                "food"
+              ]
+            }
+          ],
+          "name": "Descurainia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Asia"
+              ],
+              "name": "Lunaria annua"
+            },
+            {
+              "name": "Lunaria rediviva"
+            }
+          ],
+          "name": "Lunaria"
+        },
+        {
+          "children": [
+            {
+              "desc": "Nocturnal fragrance.",
+              "locality": [
+                "Asia",
+                "Europe"
+              ],
+              "name": "Matthiola longipetala",
+              "tag": [
+                "fragrant",
+                "annual",
+                "biennial"
+              ]
+            }
+          ],
+          "name": "Matthiola"
+        }
+      ],
+      "name": "Brassicaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Puya alpestris",
+              "tag": [
+                "xeric",
+                "barrier",
+                "bird",
+                "nectar"
+              ]
+            },
+            {
+              "name": "Puya mirabilis"
+            }
+          ],
+          "name": "Puya"
+        }
+      ],
+      "name": "Bromeliaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Spicebush"
+              ],
+              "desc": "Strongly fragrant flowers produced late spring and early fall. Bark has strong camphor smell when scraped. Flowers are pollinated by beetles of the family Nitidulidae.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Calycanthus occidentalis",
+              "tag": [
+                "fragrant",
+                "understory",
+                "juglone tolerant"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Calycanthus"
+        }
+      ],
+      "name": "Calycanthaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Cannabis ruderalis",
+              "tag": [
+                "herb",
+                "ruderal",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Cannabis"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Common Hop"
+              ],
+              "name": "Humulus lupulus",
+              "tag": [
+                "food",
+                "vine"
+              ]
+            }
+          ],
+          "name": "Humulus"
+        }
+      ],
+      "name": "Cannabaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Chaparral Honeysuckle"
+              ],
+              "desc": "Berries edible but bitter. Sun to shade.",
+              "locality": [
+                "US",
+                "California",
+                "Arizona",
+                "Western US"
+              ],
+              "name": "Lonicera interrupta",
+              "tag": [
+                "bush",
+                "xeric",
+                "hummingbird",
+                "understory",
+                "vine"
+              ]
+            }
+          ],
+          "name": "Lonicera"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Common Snowberry"
+              ],
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Symphoricarpos albus laevigatus",
+              "tag": [
+                "edible",
+                "bush",
+                "understory",
+                "hummingbird",
+                "bird",
+                "deciduous"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Dwarf Snowberry",
+                "Southern California Snowberry",
+                "Creeping Snowberry"
+              ],
+              "desc": "Creeping Snowberry grows on north slopes, in ravines, and sometimes is all that's left of an oak woodland in full sun. The more coastal the setting the more sun this snowberry can handle. In some of the shady ravines the light intensity is so low you have to use 400 speed film at noon to take a picture. I've seen Creeping Snowberry along the edge of an interior climate in the heavy shade of Umbellularia californica and Quercus agrifolia a few miles from here where they were growing flat and 5' across with the leaves 1 foot between nodes.\nCreeping snowberry was planted at CALM (California Living Museum) in Bakersfield in full sun; looks excellent there for a month each year, when it is in flower and the new leaves are coming out. Then the leaves burn off on the first hot day. But in San Luis Obispo it is over by the Mens Colony in full sun and it looks fine.",
+              "locality": [
+                "Calilfornia",
+                "Western US",
+                "Us"
+              ],
+              "name": "Symphoricarpos mollis",
+              "tag": [
+                "xeric",
+                "understory",
+                "hummingbird",
+                "bird",
+                "clay"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Symphoricarpos"
+        }
+      ],
+      "name": "Caprifoliaceae"
+    },
+    {
+      "children": [
+        {
+          "commonname": [
+            "Bladderpod",
+            "Burrofat",
+            "California Cleome"
+          ],
+          "desc": "Blooms all year. Valuable hardy nectar plant.",
+          "locality": [
+            "California"
+          ],
+          "name": "Peritoma arborea",
+          "synonym": [
+            "Isomeris arborea",
+            "Cleome isomeris"
+          ],
+          "tag": [
+            "xeric",
+            "nectar",
+            "bee",
+            "hummingbird"
+          ]
+        }
+      ],
+      "name": "Cleomaceae",
+      "synonym": [
+        "Capparaceae"
+      ]
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "locality": [
+                "Eastern US"
+              ],
+              "name": "Clethra alnifolia"
+            },
+            {
+              "commonname": [
+                "Lily of the Valley Tree"
+              ],
+              "locality": [
+                "Eastern US"
+              ],
+              "name": "Clethra arborea",
+              "tag": [
+                "fragrant",
+                "riparian",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Clethra"
+        }
+      ],
+      "name": "Clethraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Bindweed"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Calystegia purpurata",
+              "tag": [
+                "xeric",
+                "vine",
+                "clay",
+                "serpentine",
+                "stressdeciduous"
+              ]
+            }
+          ],
+          "name": "Calystegia"
+        }
+      ],
+      "name": "Convolvulaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Seasonal color.",
+              "name": "Cornus californica",
+              "tag": [
+                "understory",
+                "mesic",
+                "bird"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Bunchberry"
+              ],
+              "locality": [
+                "Western US",
+                "Northern US",
+                "Eastern US",
+                "California",
+                "US"
+              ],
+              "name": "Cornus canadensis",
+              "tag": [
+                "groundcover",
+                "bird"
+              ]
+            },
+            {
+              "commonname": [
+                "Brown Twig Dogwood"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Cornus glabrata",
+              "tag": [
+                "flood",
+                "clay",
+                "bird",
+                "butterfly",
+                "deciduous",
+                "riparian",
+                "bush",
+                "understory",
+                "sun"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Kousa Dogwood"
+              ],
+              "desc": "Not seemingly invasive, but overutilized in gardens. Beautiful berries but maybe consider this less.",
+              "locality": [
+                "Asia"
+              ],
+              "name": "Cornus kousa"
+            }
+          ],
+          "name": "Cornus"
+        }
+      ],
+      "name": "Cornaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Flying Gourd"
+              ],
+              "name": "Alsomitra macrocarpa",
+              "tag": [
+                "vine"
+              ]
+            }
+          ],
+          "name": "Alsomitra"
+        },
+        {
+          "name": "Cucumis"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Calabazilla",
+                "Coyote Gourd",
+                "Coyote Melon",
+                "Stinking Gourd",
+                "Chilicote"
+              ],
+              "desc": "Fresh gourd can be eaten like squash, though the mature fruit is extremely bitter.\nSeeds can be roasted or boiled and eaten.\nOil can be extracted from whole seeds. \nSeeds contain 31% crude protein.\nTaproot extremely starchy, with 47.5-56% starch content dried.",
+              "locality": [
+                "Western US",
+                "California"
+              ],
+              "name": "Cucurbita foetidissima",
+              "tag": [
+                "xeric",
+                "taproot",
+                "groundcover"
+              ],
+              "vendor": [
+                "plantdelights.com"
+              ]
+            },
+            {
+              "commonname": [
+                "Coyote Melon",
+                "Coyote Gourd"
+              ],
+              "desc": "Stress deciduous.",
+              "locality": [
+                "Nevada",
+                "Arizona"
+              ],
+              "name": "Cucurbita palmata",
+              "tag": [
+                "xeric"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Cucurbita"
+        },
+        {
+          "children": [
+            {
+              "desc": "Ornamental red fruits white white stripes.",
+              "name": "Diplocyclos palmatus"
+            }
+          ],
+          "desc": "",
+          "name": "Diplocyclos"
+        }
+      ],
+      "name": "Cucurbitaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Incense Cedar",
+                "Californica Incense Cedar"
+              ],
+              "locality": [
+                "California",
+                "Western US"
+              ],
+              "name": "Calocedrus decurrens",
+              "tag": [
+                "xeric",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Calocedrus"
+        }
+      ],
+      "name": "Cupressaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Macleania insignis",
+              "tag": [
+                "epiphytic",
+                "edible",
+                "hummingbird"
+              ],
+              "vendor": [
+                "strangewonderfulthings",
+                "kartuz.com"
+              ]
+            }
+          ],
+          "name": "Macleania"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Western Azalea"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Rhododendron occidentale",
+              "tag": [
+                "bush",
+                "fragrant",
+                "serpentine",
+                "mesic"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Rhododendron"
+        }
+      ],
+      "name": "Ericaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Blue Bush Acacia"
+              ],
+              "desc": "Frost tolerant to 15 F.",
+              "locality": [
+                "Australia",
+                "New South Wales"
+              ],
+              "name": "Acacia covenyi",
+              "tag": [
+                "xeric",
+                "tree",
+                "fragrant",
+                "frost tolerant",
+                "nitrogen fixer",
+                "nectar"
+              ]
+            },
+            {
+              "commonname": [
+                "Golden Wattle"
+              ],
+              "desc": "Fragrant yellow flowers. Short lived at <50 years. Experiences fire in natural habitat and resprouts from roots. Seeds germinate after fire.",
+              "locality": [
+                "Australia",
+                "Southeastern Australia"
+              ],
+              "name": "Acacia pycnantha",
+              "tag": [
+                "xeric",
+                "evergreen",
+                "fragrant",
+                "nitrogen fixer",
+                "tree",
+                "nectar"
+              ]
+            },
+            {
+              "commonname": [
+                "Willow Acacia"
+              ],
+              "desc": "Pendulous branches resembling a the form of a weeping willow. Pods split open when ripe. Thornless. Salt tolerant.\n\n\"This tree, native to eastern Australia, has been widely planted in urban areas of the Sonoran Desert. Seeds are germinating away from parent plants which might allow this to become an exotic invasive.\"\n\nhttp://www.arizonensis.org/sonoran/fieldguide/plantae/acacia_salicina.html\n\nRoot Damage Potential Rated as Low.\n\nhttps://selectree.calpoly.edu/tree-detail/adenostoma-sparsifolium",
+              "locality": [
+                "Australia",
+                "Eastern Australia"
+              ],
+              "name": "Acacia salicina",
+              "tag": [
+                "xeric",
+                "fragrant",
+                "tree",
+                "possible invasive",
+                "nitrogen fixer",
+                "halophytic"
+              ]
+            }
+          ],
+          "name": "Acacia"
+        },
+        {
+          "name": "Amherstia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Fragrant False Indigo"
+              ],
+              "desc": "http://www.friendsofthewildflowergarden.org/pages/plants/fragrantfalseindigo.html\n\nFragrant False Indigo grows from a stout deep taproot. The plant does not spread vegetatively but instead by seed dispersal. It adapts to most soils, does best in full sun with mesic to dry conditions, but sandy soils are best avoided.\n\n",
+              "locality": [
+                "Midwestern US",
+                "US"
+              ],
+              "name": "Amorpha nana",
+              "tag": [
+                "fragrant",
+                "nitrogen fixer",
+                "understory",
+                "bush",
+                "taproot"
+              ]
+            }
+          ],
+          "name": "Amorpha"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Blue Wild Indigo",
+                "Blue False Indigo"
+              ],
+              "desc": "Produces taproot with lateral rhizomes.",
+              "locality": [
+                "Midwestern US",
+                "US"
+              ],
+              "name": "Baptisia australis",
+              "tag": [
+                "nitrogen fixer",
+                "bush"
+              ],
+              "vendor": [
+                "prairiemoon.com"
+              ]
+            }
+          ],
+          "name": "Baptisia"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "West Africa"
+              ],
+              "name": "Berlinia grandiflora",
+              "tag": [
+                "fragrant",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Berlinia"
+        },
+        {
+          "children": [
+            {
+              "desc": "Blooms nearly all year. Atractive roundish bush to 6 ft. Thornless The leaves close up at night or if the plant is heavily disturbed/broken. \n\nhttp://www.arizonensis.org/sonoran/fieldguide/plantae/calliandra_californica.html\n\nStress deciduous. Cold and drought stressed.\n\nhttp://www.wildscaping.com/plants/plantprofiles/Calliandra_californica.htm",
+              "locality": [
+                "Baja California",
+                "California",
+                "Southwesten US"
+              ],
+              "name": "Calliandra californica",
+              "tag": [
+                "nitrogen fixer",
+                "bush",
+                "xeric",
+                "butterfly",
+                "bee",
+                "hummingbird"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Calliandra"
+        },
+        {
+          "children": [
+            {
+              "desc": "Pink flowers, winter deciduous.",
+              "locality": [
+                "Western US",
+                "US"
+              ],
+              "name": "Cercis occidentalis",
+              "tag": [
+                "nitrogen fixer",
+                "tree",
+                "understory"
+              ]
+            }
+          ],
+          "name": "Cercis"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Pointed Leaf Ticktrefoil"
+              ],
+              "desc": "Cute flowers and foliage. Seeds jump up when broken apart and cling to you.\n\nhttp://www.friendsofthewildflowergarden.org/pages/plants/pointedleafticktrefoil.html",
+              "locality": [
+                "Midwestern US"
+              ],
+              "name": "Desmodium glutinosum",
+              "tag": [
+                "understory",
+                "mesic"
+              ]
+            }
+          ],
+          "name": "Desmodium"
+        },
+        {
+          "children": [
+            {
+              "name": "Gliricidia sepium",
+              "tag": [
+                "biomass",
+                "nitrogen fixer"
+              ]
+            }
+          ],
+          "name": "Gliricidia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Kentucky Coffee Tree"
+              ],
+              "name": "Gymnocladus diocus",
+              "tag": [
+                "nitrogen fixer",
+                "tree",
+                "overstory"
+              ]
+            }
+          ],
+          "name": "Gymnocladus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Hyacinth Bean"
+              ],
+              "name": "Lablab purpureus",
+              "synonym": [
+                "Dolichos lablab"
+              ],
+              "tag": [
+                "edible",
+                "vine",
+                "taproot"
+              ]
+            }
+          ],
+          "name": "Lablab"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Beach Pea",
+                "Circumpolar Pea",
+                "Sea Vetchling"
+              ],
+              "desc": "Seeds buoyant and stay viable for up to 5 years at sea.\n\nPeas, young pods, tendrils edible.\n\nhttps://wildfoodgirl.com/2011/wild-beach-pea-stir-fry-with-dandy-flowers/\n\nStabilizes sand dunes. Grows alongside halophytic grasses (e.g. Leymus mollis).\n\nhttp://arcadianabe.blogspot.com/2014/09/beach-pea-elusive-edible.html",
+              "locality": [
+                "Circumpolar",
+                "California"
+              ],
+              "name": "Lathyrus japonicus",
+              "synonym": [
+                "Lathyrus californicus",
+                "Lathyrus maritimus"
+              ],
+              "tag": [
+                "sand",
+                "nitrogen fixer",
+                "vine",
+                "ruderal",
+                "halophytic",
+                "edible"
+              ]
+            },
+            {
+              "commonname": [
+                "Silky Beach Pea"
+              ],
+              "name": "Lathyrus littoralis",
+              "tag": [
+                "nitrogen fixer",
+                "sand",
+                "halophytic"
+              ]
+            },
+            {
+              "name": "Lathyrus ochroleucus"
+            },
+            {
+              "commonname": [
+                "Sweet Pea"
+              ],
+              "name": "Lathyrus odoratus"
+            },
+            {
+              "commonname": [
+                "Swamp Pea"
+              ],
+              "name": "Lathyrus palustris"
+            },
+            {
+              "name": "Lathyrus pratensis",
+              "tag": [
+                "forb",
+                "nitrogen fixer"
+              ]
+            },
+            {
+              "commonname": [
+                "California's Pride"
+              ],
+              "locality": [
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Lathyrus splendens"
+            },
+            {
+              "name": "Lathyrus tuberosus"
+            }
+          ],
+          "name": "Lathyrus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Round-Headed Bush Clover"
+              ],
+              "locality": [
+                "Midwestern US",
+                "Eastern US"
+              ],
+              "name": "Lespedeza capitata",
+              "tag": [
+                "ruderal",
+                "nitrogen fixer"
+              ],
+              "vendor": [
+                "prairiemoon.com"
+              ]
+            }
+          ],
+          "name": "Lespedeza"
+        },
+        {
+          "children": [
+            {
+              "name": "Lupinus albifrons",
+              "tag": [
+                "fragrant",
+                "nitrogen fixer",
+                "xeric",
+                "bush"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            },
+            {
+              "name": "Lupinus arboreus"
+            },
+            {
+              "name": "Lupinus bicolor",
+              "tag": [
+                "xeric",
+                "nitrogen fixer",
+                "annual",
+                "perennial"
+              ]
+            },
+            {
+              "name": "Lupinus chamissonis",
+              "tag": [
+                "nitrogen fixer",
+                "xeric"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            },
+            {
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Lupinus succulentus",
+              "tag": [
+                "annual",
+                "xeric",
+                "nitrogen fixer"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            }
+          ],
+          "name": "Lupinus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Silverleaf Psoralea"
+              ],
+              "locality": [
+                "Midwestern US",
+                "Canada"
+              ],
+              "name": "Pediomelum argophyllum",
+              "synonym": [
+                "Psoralea argophylla"
+              ],
+              "tag": [
+                "edible",
+                "nitrogen fixer"
+              ]
+            },
+            {
+              "commonname": [
+                "Prairie Turnip"
+              ],
+              "locality": [
+                "Midwestern US"
+              ],
+              "name": "Pediomelum esculentum",
+              "synonym": [
+                "Psoralea esculenta"
+              ],
+              "tag": [
+                "edible",
+                "xeric",
+                "nitrogen fixer",
+                "bee",
+                "butterfly"
+              ],
+              "vendor": [
+                "prairiemoon"
+              ]
+            }
+          ],
+          "name": "Pediomelum"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Monkeypod",
+                "`Opiuma",
+                "Kamunsil",
+                "Kamantiris",
+                "Kamachile"
+              ],
+              "locality": [
+                "Mexico",
+                "Baja California"
+              ],
+              "name": "Pithecellobium dulce",
+              "tag": [
+                "edible",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Pithecellobium"
+        },
+        {
+          "children": [
+            {
+              "desc": "Spreading weeping low canopy. Deciduous. Lives 50 to 150 years. ",
+              "locality": [
+                "Western US",
+                "California",
+                "Arizona"
+              ],
+              "name": "Prosopis glandulosa var. torreyana",
+              "tag": [
+                "xeric",
+                "tree",
+                "nitrogen fixer",
+                "fragrant"
+              ]
+            },
+            {
+              "locality": [
+                "Western US",
+                "California",
+                "Arizona"
+              ],
+              "name": "Prosopis pubescens",
+              "tag": [
+                "xeric",
+                "tree",
+                "bee"
+              ]
+            }
+          ],
+          "name": "Prosopis"
+        },
+        {
+          "name": "Psoralea"
+        },
+        {
+          "children": [
+            {
+              "desc": "Fragrant pink racemes of faboid flowers.\n\nhttps://www.fs.fed.us/database/feis/plants/tree/robneo/all.html",
+              "locality": [
+                "Arizona",
+                "California",
+                "New Mexico",
+                "Southwestern US",
+                "US"
+              ],
+              "name": "Robinia neomexicana",
+              "tag": [
+                "nitrogen fixer",
+                "xeric",
+                "fragrant",
+                "bush",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Robinia"
+        },
+        {
+          "children": [
+            {
+              "desc": "Purple flowers that smell like grape soda.",
+              "locality": [
+                "Texas",
+                "United States"
+              ],
+              "name": "Sophora secundiflora",
+              "tag": [
+                "tree",
+                "fragrant",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Sophora"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Jade Vine"
+              ],
+              "locality": [
+                "Philippines",
+                "Southeast asia"
+              ],
+              "name": "Strongylodon macrobotrys",
+              "tag": [
+                "vine"
+              ],
+              "vendor": [
+                "logees"
+              ]
+            }
+          ],
+          "name": "Strongylodon"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "Bolivia",
+                "Brazil"
+              ],
+              "name": "Tipuana tipu",
+              "tag": [
+                "tree",
+                "nitrogen fixer",
+                "xeric",
+                "mesic"
+              ]
+            }
+          ],
+          "name": "Tipuana"
+        },
+        {
+          "children": [
+            {
+              "name": "Trifolium pratense"
+            },
+            {
+              "name": "Trifolium repens"
+            }
+          ],
+          "name": "Trifolium"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Whitethorn Acacia",
+                "Mescat Wattle",
+                "Mescat Acacia"
+              ],
+              "desc": "Flowers fragrant. Lifespan less than 50 years. To 20 feet in height x 20 feet in width.",
+              "locality": [
+                "Southwestern US",
+                "US"
+              ],
+              "name": "Vachellia constricta",
+              "synonym": [
+                "Acacia constricta"
+              ],
+              "tag": [
+                "xeric",
+                "nitrogen fixer",
+                "fragrant",
+                "bush",
+                "tree",
+                "thorn"
+              ]
+            }
+          ],
+          "name": "Vachellia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Fava Bean"
+              ],
+              "desc": "Sweetly fragrant flowers.",
+              "name": "Vicia faba",
+              "tag": [
+                "food",
+                "nitrogen fixer",
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Vicia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Beach Pea",
+                "Nanea",
+                "Notched Cowpea"
+              ],
+              "desc": "Grown as a cover crop. Binds sand. Cold sensitive. Can produce flower and fruit all year.\n\nGrown as food crop in some places. Maybe safest to eat young pods.",
+              "locality": [
+                "Circumtropical"
+              ],
+              "name": "Vigna marina",
+              "synonym": [
+                "Phaseolus marinus"
+              ],
+              "tag": [
+                "sand",
+                "nitrogen fixer",
+                "ruderal",
+                "vine",
+                "halophytic"
+              ]
+            },
+            {
+              "name": "Vigna unguiculata"
+            },
+            {
+              "commonname": [
+                "Yardlong Bean",
+                "Pea Bean",
+                "Snake Bean",
+                "Asparagus Bean"
+              ],
+              "desc": "60 days from seed to fruit. Once first fruits are produced, it will keep producing until frost.",
+              "name": "Vigna unguiculata sesquipedalis",
+              "tag": [
+                "edible"
+              ]
+            }
+          ],
+          "commonname": [
+            "Beach Pea",
+            "Nanea",
+            "Notched Cowpea"
+          ],
+          "locality": [
+            "Hawaii"
+          ],
+          "name": "Vigna",
+          "tag": [
+            "ruderal",
+            "halophytic",
+            "nitrogen fixer",
+            "sand"
+          ]
+        }
+      ],
+      "name": "Fabaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Blue Oak"
+              ],
+              "desc": "Slow growing at about 1 ft per year.",
+              "locality": [
+                "Central California",
+                "Southern California",
+                "US",
+                "California"
+              ],
+              "name": "Quercus douglasii",
+              "tag": [
+                "overstory",
+                "deciduous",
+                "bird",
+                "squirrel",
+                "xeric"
+              ]
+            },
+            {
+              "commonname": [
+                "Leather Oak"
+              ],
+              "desc": "Utility-friendly. Root damage rated as low. \n\nhttps://selectree.calpoly.edu/tree-detail/quercus-durata",
+              "locality": [
+                "California"
+              ],
+              "name": "Quercus durata",
+              "tag": [
+                "xeric",
+                "evergreen",
+                "understory",
+                "tree",
+                "clay",
+                "halophobic",
+                "bird",
+                "squirrel"
+              ]
+            },
+            {
+              "commonname": [
+                "Gall Oak",
+                "Aleppo Oak"
+              ],
+              "locality": [
+                "Malaysia",
+                "India",
+                "Asia"
+              ],
+              "name": "Quercus infectoria",
+              "tag": [
+                "tree",
+                "utility"
+              ]
+            },
+            {
+              "commonname": [
+                "Gall Oak",
+                "Lusitanian Oak",
+                "Dyer's Oak"
+              ],
+              "locality": [
+                "Morocco",
+                "Portugal",
+                "Spain",
+                "Europe"
+              ],
+              "name": "Quercus lusitanica",
+              "tag": [
+                "utility",
+                "tree"
+              ]
+            },
+            {
+              "commonname": [
+                "Interior Live Oak"
+              ],
+              "desc": "Height to 70 ft, width to 80 ft. Grows moderately at 1 to 2 ft per year. High shading capcity. Root damage potential rated as moderate. \n\nhttps://selectree.calpoly.edu/tree-detail/quercus-wislizeni",
+              "locality": [
+                "California",
+                "Baja California",
+                "US",
+                "Mexico"
+              ],
+              "name": "Quercus wislezeni",
+              "tag": [
+                "evergreen",
+                "xeric",
+                "allelopathic",
+                "overstory"
+              ]
+            }
+          ],
+          "name": "Quercus"
+        }
+      ],
+      "name": "Fagaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Siskiyou Iris"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Iris bracteata"
+            }
+          ],
+          "name": "Iris"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Western Blue-Eyed Grass",
+                "Californian Blue-Eyed Grass"
+              ],
+              "locality": [
+                "California",
+                "Baja California",
+                "Oregon",
+                "Sierra Nevada"
+              ],
+              "name": "Sisyrinchium bellum",
+              "vendor": [
+                "watershednursery"
+              ]
+            }
+          ],
+          "name": "Sisyrinchium"
+        }
+      ],
+      "name": "Iridaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Hardy Pecan",
+                "Northern Pecan"
+              ],
+              "desc": "Drought tolerant.",
+              "locality": [
+                "Midwestern US",
+                "Mexico"
+              ],
+              "name": "Carya illinoensis",
+              "tag": [
+                "edible",
+                "tree",
+                "allelopathic",
+                "bird"
+              ]
+            }
+          ],
+          "name": "Carya"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Californian Walnut"
+              ],
+              "desc": "http://www.californiagardens.com/Plant_Pages/juglans_californica.htm\n\n",
+              "locality": [
+                "California"
+              ],
+              "name": "Juglans californica",
+              "tag": [
+                "tree",
+                "shrub",
+                "edible",
+                "riparian",
+                "xeric",
+                "bird"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Hind's Walnut",
+                "Northern Californian Walnut"
+              ],
+              "desc": "To 60 feet in height and width. Long lived to 50 to 150 years. Allelopathic.\n\nNuts can be made into high-protein flour.\n\nRated by Pollen Library as SEVERE allergen.\n\nhttp://www.pollenlibrary.com/Local/Specie/Juglans+hindsii/in/Santa%20clara%20County/CA/",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Juglans hindsii",
+              "tag": [
+                "edible",
+                "tree",
+                "xeric",
+                "mesic",
+                "allergen",
+                "bird",
+                "overstory"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Juglans"
+        }
+      ],
+      "name": "Juglandaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Seaside Arrowgrass",
+                "Sea Arrowgrass"
+              ],
+              "locality": [
+                "Northern Hemisphere",
+                "US",
+                "California"
+              ],
+              "name": "Triglochin maritima",
+              "synonym": [
+                "Triglochin concinna"
+              ],
+              "tag": [
+                "halophytic",
+                "ruderal"
+              ]
+            }
+          ],
+          "name": "Triglochin"
+        }
+      ],
+      "commonname": [
+        "Arrowgrass"
+      ],
+      "name": "Juncaginaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Himalayan Mint"
+              ],
+              "name": "Colquhounia coccinea"
+            }
+          ],
+          "name": "Colquhounia"
+        },
+        {
+          "children": [
+            {
+              "name": "Faradaya splendida",
+              "tag": [
+                "fragrant",
+                "vine"
+              ],
+              "vendor": [
+                "kartuz.com"
+              ]
+            }
+          ],
+          "name": "Faradaya"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Ribbonbush"
+              ],
+              "desc": "Provides blooms all winter.\n\nHypoestes aristata is a fast-growing shrub that grows up to 1.5 m high. It produces soft, hairy, dark green oval leaves and has attractive lilac  pink or white  flowers borne in spike-like inflorescences. It flowers from May right through winter till early spring.\n\nIt is usually found in dry thicket, forest and damp places from the Eastern Cape in the south to tropical Africa in the north.\n\nRibbon bush is eaten as spinach in some areas, while traditionally crushed leaves are used as a poultice for sore eyes. It also makes a good cut flower because it lasts well in water.\n\nThe ribbon bush can be propagated from both seeds and cuttings. When seeds are sown in August they will germinate in three weeks. It also tends to seed itself in the garden. You can collect a handful of seeds and sow them in containers or plastic bags until they are large enough to be planted directly in the garden. Ribbon bush should be watered well in summer but less in winter and it needs to be pruned back after flowering. It requires very little attention because it grows easily in the garden.",
+              "locality": [
+                "South Africa"
+              ],
+              "name": "Hypoestes aristata",
+              "tag": [
+                "bush",
+                "bee",
+                "edible"
+              ],
+              "vendor": [
+                "anniesannuals"
+              ]
+            }
+          ],
+          "name": "Hypoestes"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Desert Lavender"
+              ],
+              "desc": "It has blue-lavender flowers with a foliage scent similar to a tangy lavender. The odor is rich and luxurious. Flowers are scented lightly of honey. Desert lavender is great for hot narrow spaces that need some height. Such as narrow planting area against a hot south facing stucco wall or that narrow area between two hot concrete driveways that you need a hedge in places like Palm Springs. Desert Lavender is major bee plant in the Desert. It likes perfect drainage and a little water after established. It like full sun and can take extreme desert heat and wind. Desert Lavender will freeze to ground on cold winters. It seems to be hardy to about 25 F.. The plant has that slate blue-gray look that seems to be so popular. A wonderful plant to try in a hot sunny flower bed that does not get a lot of water. Remember that it grows in desert washes, not up on the dry hillsides, so a little water. It is not a cactus but grows where you would find a desert willow. \n\nLeaves can be used for tea. Tolerates flooding.",
+              "locality": [
+                "California",
+                "Southwestern US",
+                "US"
+              ],
+              "name": "Hyptis emoryi",
+              "synonym": [
+                "Condea emoryi"
+              ],
+              "tag": [
+                "fragrant",
+                "butterfly",
+                "bee",
+                "evergreen",
+                "xeric",
+                "edible"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Hyptis"
+        },
+        {
+          "children": [
+            {
+              "desc": "http://mother-natures-backyard.blogspot.com/2016/04/plant-of-month-april-fragrant.html\n\nLeaves have minty but unique fragrance. Can be used to flavor tea. L. fragrans does not take well to being pruned in late fall.",
+              "name": "Lepechinia fragrans",
+              "tag": [
+                "fragrant",
+                "edible",
+                "xeric",
+                "bush",
+                "understory",
+                "sun"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Lepechinia"
+        },
+        {
+          "children": [
+            {
+              "name": "Monarda bradburiana"
+            },
+            {
+              "commonname": [
+                "Lemon Bee Balm"
+              ],
+              "name": "Monarda citriodora"
+            },
+            {
+              "name": "Monarda didyma"
+            },
+            {
+              "name": "Monarda didyma 'Pardon My Cerise'"
+            },
+            {
+              "name": "Monarda didyma 'Pardon My Purple'"
+            },
+            {
+              "commonname": [
+                "Wild Bergamot"
+              ],
+              "locality": [
+                "North America",
+                "US"
+              ],
+              "name": "Monarda fistulosa"
+            },
+            {
+              "commonname": [
+                "Spotted Bee-Balm",
+                "Horsemint"
+              ],
+              "name": "Monarda punctata"
+            }
+          ],
+          "name": "Monarda"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Catmint"
+              ],
+              "name": "Nepeta tuberosa",
+              "tag": [
+                "fragrant",
+                "taproot",
+                "tuberous",
+                "alpine",
+                "bee",
+                "hummingbird",
+                "butterfly"
+              ]
+            }
+          ],
+          "name": "Nepeta"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Jerusalem Sage"
+              ],
+              "desc": "Fragrant leaves. Drought tolerant once established. Larval host for some lepidopterans. Unappealing to deer or rabbits.",
+              "locality": [
+                "Mediterranean"
+              ],
+              "name": "Phlomis fruticosa",
+              "tag": [
+                "xeric",
+                "fragrant",
+                "nectar"
+              ]
+            },
+            {
+              "commonname": [
+                "Jerusalem Sage"
+              ],
+              "locality": [
+                "Europe",
+                "Asia"
+              ],
+              "name": "Phlomis tuberosa",
+              "tag": [
+                "tuberous",
+                "bird",
+                "butterfly",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Phlomis"
+        },
+        {
+          "children": [
+            {
+              "desc": "Fast growing to 6'x4' ft. Fall blooming, should be cut in winter to maintain bushiness. ",
+              "name": "Plectranthus ecklonii",
+              "tag": [
+                "nectar",
+                "hummingbird",
+                "butterfly",
+                "clay"
+              ],
+              "vendor": [
+                "Annies Annuals"
+              ]
+            }
+          ],
+          "name": "Plectranthus"
+        },
+        {
+          "children": [
+            {
+              "desc": "Everblooming.",
+              "name": "Salvia flocculosa",
+              "tag": [
+                "bee",
+                "hummingbird",
+                "bush"
+              ]
+            },
+            {
+              "commonname": [
+                "Gentian Sage"
+              ],
+              "locality": [
+                "Central Mexico",
+                "Mexico"
+              ],
+              "name": "Salvia patens",
+              "tag": [
+                "deciduous",
+                "tuberous",
+                "hummingbird",
+                "bee"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            },
+            {
+              "desc": "Giant-flowered variety.",
+              "name": "Salvia patens 'Cabrillo Giant'",
+              "vendor": [
+                "Annie's Annual"
+              ]
+            },
+            {
+              "name": "Salvia spathacea",
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Salvia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Chinese artichoke"
+              ],
+              "desc": "The most well known of the tuberous mints is Stachys affinis, the Chinese artichoke. The tubers of Chinese artichoke are generally small, two to three inches (5 to 7.5 cm) in length, and no more than half an inch (1.2 cm) wide. They are white, with a segmented appearance that makes them tempting to compare to grubs. They are crisp and slightly nutty tasting and are often eaten raw, but also can be cooked or pickled. All parts of the plant are edible, but only the tubers are really worthwhile, in my opinion. Yields are fairly small; a quarter pound (114 g) from an individual plant is very good.  Chinese artichoke plants reach about 18 inches (45 cm) in height.  Chinese artichoke is diploid.\n\nIn most places, Chinese artichoke is one of those plants that you really have to grow yourself. It is rarely available in markets and it doesn\u2019t store very well. In climates where the soil doesn\u2019t freeze to significant depth, it is best harvested and used fresh through fall and winter. A fresh Chinese artichoke tuber has the texture of a radish, with a flavor that combines elements of radish, turnip, and walnut (in my opinion of course), while tubers that have been sitting in a box at the store for more than a day or two may have no flavor at all.\n\nCan be pickeled.",
+              "locality": [
+                "China",
+                "Asia"
+              ],
+              "name": "Stachys affinis",
+              "tag": [
+                "edible",
+                "tuberous"
+              ],
+              "vendor": [
+                "cultivariable"
+              ]
+            },
+            {
+              "commonname": [
+                "Coast Hedge Nettle",
+                "Coastal Hedge Nettle"
+              ],
+              "desc": "In its native sites it grows roadside drainage ditches and standing in water. In containers it grows too fast and becomes a pot bound mess in nothing flat. This is one of the few natives that do not care how pot bound, old, frost burnt even drought stressed it is , as soon as it gets in a wet spot look out! It will sucker until there is no more moisture.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Stachys chamissonis",
+              "tag": [
+                "hummingbird",
+                "deciduous",
+                "mesic"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Florida Betony"
+              ],
+              "desc": "Florida betony is quite similar to Chinese artichoke, but the tubers are usually quite a bit larger.  The flavor is less nutty, more bland.  I think this species has great potential compared to Chinese artichoke, because it generally has better yields and readily produces seed, which means that it can be more easily improved through breeding.\n\nThe tubers of Florida betony may reach up to twelve inches (30 cm) in length and about three quarters of an inch (2 cm) in diameter.  Florida betony plants reach up to about 24 inches (60 cm) in our climate.",
+              "locality": [
+                "Florida",
+                "US",
+                "Southeastern US"
+              ],
+              "name": "Stachys floridana",
+              "tag": [
+                "edible",
+                "tuberous"
+              ],
+              "vendor": [
+                "cultivariable"
+              ]
+            },
+            {
+              "commonname": [
+                "Marsh Woundwort"
+              ],
+              "desc": "Roots, leaves, seeds edible. \n\nTubers - raw or cooked[K]. A wholesome and nutritious food[4], they have a pleasant mild nutty flavour[K]. The tubers can be dried and ground into a powder that is used in making bread etc[2, 4, 12, 115, 183]. The tubers are formed in the autumn[17]. Although quite small, they are fairly smooth and produced in a reasonable quantity so are not too fiddly to utilize[K]. Young shoots - cooked. Used as an asparagus substitute[183]. A pleasant taste but the smell is disagreeable[4]. Seed[257]. No further details are given[257].\n\nhttps://www.pfaf.org/user/Plant.aspx?LatinName=Stachys+palustris\n\nMarsh woundwort tubers may grow as long as eighteen inches (46 cm) although most of that lenth is rather thin.  It is still perfectly edible and may even be preferable for some dishes.  I find that the thicker, more useful part of the tubers is typically about four to six inches (10 to 15 cm) in length.  Marsh woundwort plants reach up to about 40 inches tall (102 cm) in our climate.  Marsh woundwort is found in diploid, tetraploid, and hexaploid forms. The diploids and tetraploids are mostly native to North America, while the hexaploids are mostly native to Europe (Luczaj 2011).",
+              "locality": [
+                "Europe",
+                "Alaska"
+              ],
+              "name": "Stachys palustris",
+              "tag": [
+                "edible"
+              ],
+              "vendor": [
+                "cultivariable"
+              ]
+            }
+          ],
+          "name": "Stachys"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Woolly Bluecurls"
+              ],
+              "desc": "Can be made into tea. Flowers in spring, fall and winter. Extremely drought tolerant once established.",
+              "locality": [
+                "California",
+                "Baja California"
+              ],
+              "name": "Trichostema lanatum",
+              "tag": [
+                "xeric",
+                "fragrant",
+                "edible",
+                "hummingbird",
+                "bee",
+                "nectar"
+              ],
+              "vendor": [
+                "Annie's Annuals",
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Trichostema"
+        },
+        {
+          "children": [
+            {
+              "name": "Volkameria inermis",
+              "tag": [
+                "fragrant",
+                "vine",
+                "halophytic"
+              ],
+              "vendor": [
+                "kartuz.com"
+              ]
+            }
+          ],
+          "name": "Volkameria"
+        }
+      ],
+      "name": "Lamiaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Candy Corn Plant"
+              ],
+              "desc": "Highly attractive bush with flowers occuring any time during the year in warm climates. Highly attractive to hummingbirds.",
+              "locality": [
+                "Mexico"
+              ],
+              "name": "Cuphea micropetala",
+              "tag": [
+                "hummingbird",
+                "nectar",
+                "drought",
+                "clay",
+                "salt"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            }
+          ],
+          "name": "Cuphea"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Pomegranate"
+              ],
+              "desc": "Fire resistance is Favorable, Root damage potential is rated as Low.\n\nhttps://selectree.calpoly.edu/tree-detail/punica-granatum",
+              "name": "Punica granatum",
+              "tag": [
+                "xeric",
+                "edible",
+                "tree",
+                "sun"
+              ]
+            }
+          ],
+          "name": "Punica"
+        }
+      ],
+      "name": "Lythraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Baobab"
+              ],
+              "name": "Adansonia digitata",
+              "tag": [
+                "overstory",
+                "tree",
+                "food"
+              ]
+            },
+            {
+              "commonname": [
+                "Baobab"
+              ],
+              "desc": "Edibility rating of fruit is the lowest of the Baobabs. Edible but unpalatable.",
+              "locality": [
+                "Madagascar"
+              ],
+              "name": "Adansonia madagascarensis",
+              "tag": [
+                "overstory",
+                "tree",
+                "food"
+              ]
+            }
+          ],
+          "name": "Adansonia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Cranberry Hibiscus",
+                "African Rosemallow"
+              ],
+              "desc": "Leaves edible and sour or tart. Used as vegetable raw or cooked.",
+              "name": "Hibiscus acetosella",
+              "tag": [
+                "edible",
+                "shrub"
+              ]
+            }
+          ],
+          "name": "Hibiscus"
+        }
+      ],
+      "name": "Malvaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Virginia Springbeauty",
+                "Eastern Springnbeauty",
+                "Fairy Spud"
+              ],
+              "locality": [
+                "Eastern US"
+              ],
+              "name": "Claytonia virginica",
+              "tag": [
+                "understory",
+                "tuberous"
+              ]
+            }
+          ],
+          "name": "Claytonia"
+        }
+      ],
+      "name": "Montiaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Common Fig"
+              ],
+              "name": "Ficus carica",
+              "tag": [
+                "edible",
+                "tree",
+                "xeric"
+              ]
+            },
+            {
+              "name": "Ficus macrophylla"
+            }
+          ],
+          "name": "Ficus"
+        }
+      ],
+      "name": "Moraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Moringa oleifera",
+              "tag": [
+                "ruderal",
+                "food",
+                "tree",
+                "fragrant",
+                "utility"
+              ]
+            }
+          ],
+          "name": "Moringa"
+        }
+      ],
+      "name": "Moringaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Sweetfern"
+              ],
+              "desc": "Pioneer plant that can grow on rocky substrate. Gives way to successive plants easily, not known to have an invasive growth pattern. Pretty fernlike leaves.",
+              "locality": [
+                "Eastern US",
+                "US"
+              ],
+              "name": "Comptonia peregrina",
+              "tag": [
+                "fragrant",
+                "actinorhizal",
+                "nitrogen fixer",
+                "xeric",
+                "ruderal"
+              ]
+            }
+          ],
+          "name": "Comptonia"
+        }
+      ],
+      "name": "Myricaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Edible flower and fruit.",
+              "name": "Acca sellowiana",
+              "synonym": [
+                "Feijoa sellowiana"
+              ],
+              "tag": [
+                "bush",
+                "tree",
+                "edible"
+              ]
+            }
+          ],
+          "name": "Acca"
+        },
+        {
+          "children": [
+            {
+              "desc": "Midgen Berry. Midyim.\nSweet tasting berries.",
+              "locality": [
+                "New South Wales",
+                "Queensland",
+                "Australia"
+              ],
+              "name": "Austromyrtus dulcis",
+              "tag": [
+                "edible",
+                "bush"
+              ]
+            }
+          ],
+          "name": "Austromyrtus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Pineapple Guava"
+              ],
+              "name": "Feijoa sellowiana",
+              "tag": [
+                "food",
+                "hummingbird"
+              ]
+            }
+          ],
+          "name": "Feijoa"
+        },
+        {
+          "children": [
+            {
+              "name": "Syzygium cumini"
+            },
+            {
+              "name": "Syzygium jambos",
+              "tag": [
+                "edible",
+                "tree"
+              ]
+            },
+            {
+              "name": "Syzygium malaccense",
+              "tag": [
+                "edible",
+                "tree"
+              ]
+            },
+            {
+              "commonname": [
+                "Rose Apple",
+                "Wax Jambu"
+              ],
+              "name": "Syzygium samarengense",
+              "tag": [
+                "edible",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Syzygium"
+        }
+      ],
+      "name": "Myrtaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Mirabilis jalapa"
+            },
+            {
+              "desc": "Strongly fragrant white flowers. ",
+              "locality": [
+                "Mexico",
+                "Southwestern US"
+              ],
+              "name": "Mirabilis longiflora",
+              "tag": [
+                "mesic",
+                "fragrant",
+                "tuberous"
+              ],
+              "vendor": [
+                "monticelloshop.org"
+              ]
+            }
+          ],
+          "name": "Mirabilis"
+        }
+      ],
+      "name": "Nyctaginaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Desert Olive is a deciduous shrub that grows fast to 6-8 feet. Native from northern central California to Riverside and east to Colorado and Texas. Useful fast filler for desert conditions, drought tolerant after established, cold tolerant to at least 0 F., and deer have not bothered this plant. Easy to grow. Give it regular water for first year, then forget or keep watering. LOVES deep sand.\n\nIt's kind of weird that our Olive grows in the same situations as the European olive, but the European Olive grows in areas of twice as much rainfall and milder locations. Our Olive is much tougher.\n\nPlants occurring nearby are Prunus andersonii, Encelia actoni, Haplopappus linearifolius, Chaenactis spp., Atriplex canescens, and Cucurbita foetidissima, in arroyo area of Joshua Tree Woodland. ",
+              "name": "Forestiera pubescens",
+              "synonym": [
+                "Forestiera pubescens"
+              ]
+            }
+          ],
+          "name": "Forestiera"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Dwarf Ash"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Fraxinus anomala",
+              "tag": [
+                "xeric",
+                "botanical",
+                "bush"
+              ]
+            },
+            {
+              "commonname": [
+                "California Ash"
+              ],
+              "desc": "Very showy white flower clusters. Medium tree at 20 - 25 ft. in height.",
+              "locality": [
+                "California",
+                "US",
+                "Baja California"
+              ],
+              "name": "Fraxinus dipetala",
+              "tag": [
+                "tree",
+                "dioceous",
+                "bush",
+                "riparian",
+                "drought"
+              ],
+              "vendor": [
+                "Las Pilitas",
+                "Cal Flora Nursery"
+              ]
+            },
+            {
+              "name": "Fraxinus latifolia",
+              "tag": [
+                "xeric",
+                "mesic",
+                "overstory",
+                "tree"
+              ]
+            },
+            {
+              "commonname": [
+                "Arizona Ash",
+                "Modesto Ash"
+              ],
+              "locality": [
+                "Southeastern US",
+                "US",
+                "Arizona",
+                "California",
+                "Baja California",
+                "Texas",
+                "Nevada",
+                "New Mexico"
+              ],
+              "name": "Fraxinus velutina",
+              "tag": [
+                "overstory",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Fraxinus"
+        },
+        {
+          "children": [
+            {
+              "name": "Jasminum humile 'Revolutum'",
+              "tag": [
+                "fragrant",
+                "bush"
+              ]
+            },
+            {
+              "name": "Jasminum nobile",
+              "synonym": [
+                "Jasminum rex"
+              ]
+            },
+            {
+              "name": "Jasminum odoratissimum",
+              "tag": [
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Jasminum"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Holly-Leaf Osmanthus"
+              ],
+              "desc": "Utility-friendly. Fragrant flowers. Root damage rated as low. \n\nhttps://selectree.calpoly.edu/tree-detail/osmanthus-heterophyllus",
+              "locality": [
+                "Asia",
+                "Japan"
+              ],
+              "name": "Osmanthus heterophyllus",
+              "tag": [
+                "fragrant",
+                "evergreen",
+                "understory",
+                "nectar",
+                "bee"
+              ]
+            }
+          ],
+          "name": "Osmanthus"
+        },
+        {
+          "children": [
+            {
+              "desc": "No-chill variety.",
+              "name": "Syringa 'Big Blue'",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "No-chill variety.",
+              "name": "Syringa 'Heather Haze'",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "\"No-chill\" variety that can bloom in warm climates.",
+              "name": "Syringa 'Lavender Lady'",
+              "tag": [
+                "bush",
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "No-chill variety.",
+              "name": "Syringa 'Old Lace'",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "No-chill variety.",
+              "name": "Syringa 'Sweet Charity'",
+              "tag": [
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Syringa"
+        }
+      ],
+      "name": "Oleaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "California Fuchsia",
+                "Zauschneria"
+              ],
+              "desc": "Summer and fall bloomer.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Epilobium canum",
+              "synonym": [
+                "Zauschneria californica",
+                "Zauschneria cana"
+              ],
+              "tag": [
+                "xeric",
+                "hummingbird"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Epilobium"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Seed Box",
+                "Rattlebox"
+              ],
+              "desc": "Invasive.",
+              "locality": [
+                "South America"
+              ],
+              "name": "Ludwigia helminthorrhiza",
+              "tag": [
+                "floating"
+              ]
+            },
+            {
+              "commonname": [
+                "Floating Primrose",
+                "Creeping Water Primrose",
+                "Marsh Purslane"
+              ],
+              "desc": "Rooted floating plant whose sometimes branching stems reach 4 meters long.\n\nNative but INVASIVE\n\nCalifornia IPC rates it highly.\nFruits contain many minute seeds. Vegetative reproduction through fragmentation also possible. Tends to shade other aquatic plants.\n\nhttps://www.cal-ipc.org/plants/paf/ludwigia-peploides-plant-assessment-form/",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Ludwigia peploides",
+              "tag": [
+                "floating",
+                "hydric",
+                "mesic",
+                "inasive"
+              ]
+            },
+            {
+              "commonname": [
+                "Creeping Water Primrose",
+                "Creeping Primrose Willow"
+              ],
+              "desc": "Not rated as invasive by Cal-IPC. Forms an attractive aquatic bush.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Ludwigia repens",
+              "tag": [
+                "floating"
+              ]
+            }
+          ],
+          "name": "Ludwigia"
+        }
+      ],
+      "name": "Onagraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Cattley iricolor"
+            },
+            {
+              "name": "Cattleya rex"
+            }
+          ],
+          "name": "Cattleya"
+        },
+        {
+          "name": "Cochlioda"
+        },
+        {
+          "name": "Cymbidium"
+        },
+        {
+          "name": "Cyrtochilum"
+        },
+        {
+          "children": [
+            {
+              "desc": "Sweetly fragrant of honey.",
+              "name": "Dendrobium hancockii",
+              "tag": [
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Dendrobium"
+        },
+        {
+          "name": "Epidendrum"
+        },
+        {
+          "name": "Gastrochilus"
+        },
+        {
+          "name": "Haraella"
+        },
+        {
+          "name": "Laelia"
+        },
+        {
+          "name": "Miltonia"
+        },
+        {
+          "name": "Miltoniopsis"
+        },
+        {
+          "name": "Myrmecophila"
+        },
+        {
+          "name": "Oncidium"
+        },
+        {
+          "name": "Phalaenopsis"
+        },
+        {
+          "name": "Schomburgkia"
+        },
+        {
+          "name": "Vanda"
+        },
+        {
+          "name": "Vanilla"
+        }
+      ],
+      "name": "Orchidaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Castilleja divisa",
+              "tag": [
+                "hemiparasitic"
+              ]
+            },
+            {
+              "name": "Castilleja exserta",
+              "tag": [
+                "hemiparasitic"
+              ],
+              "vendor": [
+                "\nBay Natives",
+                "Desert Natives Nursery",
+                "Hedgerow Farms",
+                "Larner Seeds",
+                "Plants of the Southwest",
+                "S&S Seeds Inc",
+                "San Bruno Mountain Watch",
+                "Santa Cruz Native Seeds",
+                "Stover Seeds"
+              ]
+            },
+            {
+              "name": "Castilleja purpurea",
+              "tag": [
+                "hemiparasitic"
+              ]
+            },
+            {
+              "name": "Castilleja rhexifolia",
+              "tag": [
+                "hemiparasitic"
+              ]
+            }
+          ],
+          "name": "Castilleja"
+        },
+        {
+          "children": [
+            {
+              "name": "Orobanche corymbosa"
+            }
+          ],
+          "name": "Orobanche"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Indian Warrior",
+                "Warrior's Plume"
+              ],
+              "desc": "Preferred host is Manzanita (Arctostaphylos sp.).",
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Pedicularis densiflora",
+              "tag": [
+                "hemiparasitic",
+                "perennial",
+                "herb"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Pedicularis"
+        }
+      ],
+      "name": "Orobanchaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Golden Corydalis"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Corydalis aurea",
+              "tag": [
+                "annual",
+                "perennial"
+              ]
+            },
+            {
+              "commonname": [
+                "Sierra Fumewort"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Corydalis caseana"
+            }
+          ],
+          "name": "Corydalis"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Channel Islands Tree Poppy"
+              ],
+              "desc": "Blooms mainly in spring but sporadically year-round.",
+              "locality": [
+                "Channel Islands",
+                "US"
+              ],
+              "name": "Dendromecon harfordii",
+              "synonym": [
+                "Dendromecon rigida harfordii"
+              ],
+              "tag": [
+                "xeric"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            },
+            {
+              "commonname": [
+                "Bush Poppy"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Dendromecon rigida",
+              "tag": [
+                "xeric",
+                "bush",
+                "clay",
+                "serpentine",
+                "evergreen"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Dendromecon"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Pacific Bleeding Heart"
+              ],
+              "locality": [
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Dicentra formosa",
+              "tag": [
+                "understory"
+              ]
+            }
+          ],
+          "name": "Dicentra"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Tufted Poppy"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Eschscholzia caespitosa",
+              "tag": [
+                "fragrant"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            },
+            {
+              "commonname": [
+                "California Poppy"
+              ],
+              "desc": "State flower. Blooms when warm.",
+              "locality": [
+                "California"
+              ],
+              "name": "Eschscholzia californica",
+              "tag": [
+                "xeric",
+                "bee"
+              ],
+              "vendor": [
+                "Las Pilitas",
+                "Annie's Annual"
+              ]
+            }
+          ],
+          "name": "Eschscholzia"
+        },
+        {
+          "name": "Papaver"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "California",
+                "Baja California"
+              ],
+              "name": "Romneya coulteri",
+              "tag": [
+                "xeric",
+                "coastal"
+              ]
+            }
+          ],
+          "name": "Romneya"
+        }
+      ],
+      "name": "Papaveraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Passiflora elegans",
+              "tag": [
+                "edible",
+                "vine",
+                "butterfly,"
+              ],
+              "vendor": [
+                "gkplants.com"
+              ]
+            }
+          ],
+          "name": "Passiflora"
+        }
+      ],
+      "name": "Passifloraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Sticky Monkeyflower",
+                "Orange Bush Monkeyflower"
+              ],
+              "locality": [
+                "California"
+              ],
+              "name": "Diplacus aurantiacus",
+              "synonym": [
+                "Mimulus aurantiacus"
+              ],
+              "tag": [
+                "hummingbird",
+                "xeric",
+                "understory",
+                "sun"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Diplacus"
+        }
+      ],
+      "name": "Phrymaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Ghost Pine",
+                "Gray Pine",
+                "California Foothill Pine",
+                "Digger Pine",
+                "Nut Pine",
+                "Bull Pine"
+              ],
+              "desc": "Sympatric with Quercus wislizeni.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Pinus sabiniana"
+            }
+          ],
+          "name": "Pinus"
+        }
+      ],
+      "name": "Pinaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Innocence",
+                "Purple Chinese Houses"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Collinsia heterophylla",
+              "tag": [
+                "xeric",
+                "butterfly",
+                "bee",
+                "annual",
+                "oak resistant",
+                "understory"
+              ],
+              "vendor": [
+                "Annies Annuals"
+              ]
+            }
+          ],
+          "name": "Collinsia"
+        },
+        {
+          "children": [
+            {
+              "desc": "Drought and winter deciduous. Signifcant hummingbird plant.",
+              "name": "Keckiella cordifolia",
+              "tag": [
+                "sun",
+                "understory",
+                "hummingbird",
+                "xeric",
+                "deciduous"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Keckiella"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Seaside Plantain"
+              ],
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Plantago maritima",
+              "tag": [
+                "halophytic",
+                "ruderal"
+              ]
+            }
+          ],
+          "name": "Plantago"
+        }
+      ],
+      "name": "Plantaginaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Juniper-Leafed Thrift"
+              ],
+              "name": "Armeria juniperifolia",
+              "tag": [
+                "alpine",
+                "lithophyte"
+              ],
+              "vendor": [
+                "riversidegardencentre.com"
+              ]
+            },
+            {
+              "commonname": [
+                "Sea Thrift",
+                "Sea Pink"
+              ],
+              "locality": [
+                "Northern Hemisphere",
+                "US",
+                "California"
+              ],
+              "name": "Armeria maritima",
+              "tag": [
+                "halophytic"
+              ]
+            }
+          ],
+          "name": "Armeria"
+        }
+      ],
+      "name": "Plumbaginaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "California Sweetgrass"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Anthoxanthum occidentale",
+              "synonym": [
+                "Hierochloe occidentalis"
+              ],
+              "tag": [
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Anthoxanthum"
+        },
+        {
+          "children": [
+            {
+              "desc": "Clumping grass. Ornamnetal seed heads.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Bouteloua gracilis",
+              "tag": [
+                "xeric"
+              ],
+              "vendor": [
+                "Annies Annuals"
+              ]
+            }
+          ],
+          "name": "Bouteloua"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "California Brome"
+              ],
+              "desc": "Roots reach down to 4 ft. Good for stabilization and soil remidiation.",
+              "locality": [
+                "California US"
+              ],
+              "name": "Bromus carinatus",
+              "tag": [
+                "xeric",
+                "ruderal",
+                "fire"
+              ]
+            }
+          ],
+          "name": "Bromus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Vetiver"
+              ],
+              "desc": "Very useful for soil remidiation and erosion prevention. Dense roots grow straight down to 13 ft. Very sturdy against flood.\n\nMust get sterile variety, or else it's invasive. Still self-propagates through plantlets, but not stolons.\n\nSterile varieties:\nMonto Vetiver\nSunshine Vetiver\nLouisiana Sunshine\n\nhttps://www.houzz.com/discussions/1925112/sterile-vetiver",
+              "locality": [
+                "India"
+              ],
+              "name": "Chrysopogon zizanioides",
+              "tag": [
+                "ruderal",
+                "drought tolerant"
+              ]
+            }
+          ],
+          "name": "Chrysopogon"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "California Sweetgrass"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Hierochloe occidentalis (inactive name)",
+              "synonym": [
+                "Anthoxanthum nitens"
+              ]
+            }
+          ],
+          "name": "Hierochloe"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Sugarcane"
+              ],
+              "desc": "Tall canes act as windbreak. Attacked by boring insects. Uses a lot of water. Leaves valuable carbon soure for mulch.",
+              "locality": [
+                "India"
+              ],
+              "name": "Saccharum officinarum",
+              "tag": [
+                "edible",
+                "ruderal",
+                "barrier",
+                "windbreak"
+              ]
+            }
+          ],
+          "name": "Saccharum"
+        }
+      ],
+      "name": "Poaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Golden Leather Fern",
+                "Swamp Fern",
+                "Mangrove Fern"
+              ],
+              "name": "Acrostichum aureum",
+              "tag": [
+                "halophytic",
+                "rheophytic"
+              ]
+            }
+          ],
+          "name": "Acrostichum"
+        }
+      ],
+      "name": "Pteridaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Possible candidate to plant under walnut etc.",
+              "locality": [
+                "Northern Hemisphere"
+              ],
+              "name": "Anemone hepatica",
+              "synonym": [
+                "Hepatica nobilis",
+                "Hepaticca triloba"
+              ],
+              "tag": [
+                "understory",
+                "evergreen",
+                "temperate",
+                "tuberous",
+                "juglone tolerant"
+              ],
+              "vendor": [
+                "nativewildflowers.net"
+              ]
+            },
+            {
+              "commonname": [
+                "Desert Anemone",
+                "Tuber Anemone"
+              ],
+              "locality": [
+                "Southwestern US",
+                "California",
+                "US"
+              ],
+              "name": "Anemone tuberosa",
+              "tag": [
+                "tuberous",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Anemone"
+        },
+        {
+          "children": [
+            {
+              "desc": "Resistant to oak allelopathy, maybe resistant to others.",
+              "name": "Aquilegia eximia",
+              "tag": [
+                "understory"
+              ]
+            },
+            {
+              "commonname": [
+                "Western Columbine",
+                "Crimson Columbine"
+              ],
+              "desc": "Resistant to oak allelopathy, maybe resistant to others.",
+              "locality": [
+                "Western US",
+                "California",
+                "Baja California"
+              ],
+              "name": "Aquilegia formosa",
+              "tag": [
+                "riparian",
+                "hummingbird",
+                "moth",
+                "understory",
+                "mesic"
+              ]
+            }
+          ],
+          "name": "Aquilegia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Bush Anemone"
+              ],
+              "desc": "White flowers. Flowers and leaves fragrant.",
+              "locality": [
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Carpenteria californica",
+              "tag": [
+                "bush",
+                "fragrant",
+                "riparian",
+                "mesic",
+                "understory",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Carpenteria"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Scarlet Larkspur"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Delphinium cardinale",
+              "tag": [
+                "tuberous",
+                "xeric",
+                "hummingbird"
+              ],
+              "vendor": [
+                "Annie's Annuals"
+              ]
+            }
+          ],
+          "name": "Delphinium"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Fendler's Meadow-Rue"
+              ],
+              "desc": "Stress deciduous.",
+              "locality": [
+                "Western US",
+                "US",
+                "California"
+              ],
+              "name": "Thalictrum fendleri",
+              "tag": [
+                "understory",
+                "flood",
+                "deciduous"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Thalictrum"
+        }
+      ],
+      "name": "Ranunculaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Chamise",
+                "Greasewood"
+              ],
+              "desc": "Grows in nutrient-poor soils and rocky outcrops. Sometimes co-dominant with toyon (Heteromeles arbutifolia). In nature, periodic fires burn it to the crown, after which it resprouts. The roots keep the soil from washing away. To facilitate this, the leaves produce flammable oils.",
+              "locality": [
+                "Oregon",
+                "Nevada",
+                "California",
+                "US",
+                "Baja California"
+              ],
+              "name": "Adenostema fasciculatum",
+              "tag": [
+                "bird",
+                "ruderal",
+                "fire",
+                "xeric",
+                "serpentine"
+              ]
+            },
+            {
+              "commonname": [
+                "Redshank",
+                "Red Shank"
+              ],
+              "desc": "Leaves and flowers fragrant. Low canopy. \n\nFire resistance rated as \"unfavorable\". \n\nhttps://selectree.calpoly.edu/tree-detail/adenostoma-sparsifolium",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Adenostema sparsifolium",
+              "tag": [
+                "xeric",
+                "fire",
+                "bird",
+                "fragrant",
+                "sand",
+                "clay"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Adenostema"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Downy Serviceberry",
+                "Common Serviceberry"
+              ],
+              "desc": "Young leaves have fuzz. Small to medium tree to 39 ft tall. Slightly fragrant delicate white flowers. Excellent tree for bird habitation.",
+              "locality": [
+                "US",
+                "Eastern US"
+              ],
+              "name": "Amelanchier arborea",
+              "tag": [
+                "bird",
+                "tree",
+                "understory",
+                "deciduous",
+                "fragrant",
+                "utility friendly"
+              ]
+            }
+          ],
+          "name": "Amelanchier"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Mountain Misery"
+              ],
+              "desc": "Fragrant-leafed. Sun to shade.",
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Chamaebatia foliosa",
+              "tag": [
+                "xeric",
+                "groundcover",
+                "nitrogen fixer",
+                "actinorhizal",
+                "fragrant"
+              ],
+              "vendor": [
+                "laspilitas.com"
+              ]
+            }
+          ],
+          "name": "Chamaebatia"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Loquat"
+              ],
+              "desc": "Fast growing.",
+              "name": "Eriobotrya japonica",
+              "tag": [
+                "edible",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Eriobotrya"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Toyon"
+              ],
+              "desc": "They are visited by butterflies, and have a mild, hawthorn-like scent. The fruit are consumed by birds, including mockingbirds, American robins, cedar waxwings and hermit thrushes.[14] Mammals including coyotes and bears also eat and disperse the pomes.\n\nFruit contain cyanogenic glycosides.",
+              "locality": [
+                "California",
+                "Baja California",
+                "British Columbia",
+                "US"
+              ],
+              "name": "Heteromeles arbutifolia",
+              "tag": [
+                "fire",
+                "nectar",
+                "fragrant",
+                "bird",
+                "ruderal",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Heteromeles"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Cream Bush"
+              ],
+              "locality": [
+                "California",
+                "Western US",
+                "US"
+              ],
+              "name": "Holodiscus discolor",
+              "tag": [
+                "understory",
+                "deciduous",
+                "fragrant",
+                "butterfly"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Holodiscus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Catalina Ironwood"
+              ],
+              "desc": "Quick growing upright tree.",
+              "locality": [
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Lyonothamnus floribundus",
+              "tag": [
+                "overstory",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Lyonothamnus"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "Western US",
+                "California"
+              ],
+              "name": "Prunus andersonii",
+              "tag": [
+                "xeric",
+                "bush"
+              ]
+            },
+            {
+              "commonname": [
+                "Almond"
+              ],
+              "name": "Prunus dulcis",
+              "tag": [
+                "xeric",
+                "edible"
+              ]
+            },
+            {
+              "desc": "Native to Central Asia, Mandchurian Apricot is a small, rounded tree reaching 15 to 20 feet in height. The leaves are broad, simple, ovate or broad-elliptic and mostly smooth, medium green turning golden yellow in the fall. The fragrant showy flowers are single, pink and over 1 inch wide, blooming in the spring before the leaves emerge. It is very attractive in Flower, very cold hardy and can be relied on in climates where other Prunus may not flower. Fruits are about 1 inch in diameter, yellow with red flush, showy, edible and borne in abundance. The fruit provides food for wildlife during the fall. Fruits can be eaten fresh and are excellent for making jams and jellies.",
+              "locality": [
+                "Central Asia"
+              ],
+              "name": "Prunus mandschurica",
+              "tag": [
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Prunus"
+        },
+        {
+          "children": [
+            {
+              "desc": "Tolerates some drought, but thrives in moisture. Forms impenetrable thicket with hooked thorns like velcro.",
+              "name": "Rosa californica",
+              "tag": [
+                "sun",
+                "understory",
+                "edible"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Rosa",
+          "tag": [
+            "juglone tolerant"
+          ]
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Korean Mountain Ash"
+              ],
+              "desc": "Root damage rated as low.\n\nhttps://selectree.calpoly.edu/tree-detail/sorbus-alnifolia\n\nInvasive potential: little invasive potential\n\nhttp://edis.ifas.ufl.edu/st598",
+              "locality": [
+                "Korea",
+                "Japan",
+                "China",
+                "Asia"
+              ],
+              "name": "Sorbus alnifolia",
+              "tag": [
+                "understory",
+                "overstory",
+                "bird",
+                "bee"
+              ]
+            }
+          ],
+          "name": "Sorbus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Hardhack",
+                "Hardhack Steeplebush",
+                "Douglas' Spirea"
+              ],
+              "locality": [
+                "Northern US",
+                "Northwestern US",
+                "US"
+              ],
+              "name": "Spiraea douglasii",
+              "tag": [
+                "riparian",
+                "mesic",
+                "understory",
+                "sun",
+                "deciduous",
+                "bee"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Spiraea"
+        },
+        {
+          "children": [
+            {
+              "name": "Sobraronia mitschurinii",
+              "synonym": [
+                "Aronia mitschurinii"
+              ],
+              "tag": [
+                "edible"
+              ]
+            }
+          ],
+          "name": "x Sobraronia"
+        }
+      ],
+      "desc": "",
+      "name": "Rosaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Common Buttonbush",
+                "Button-willow",
+                "Common Buttonbush",
+                "Honeybells"
+              ],
+              "desc": "Fragrant flowers that occur in summer. Nectar plant for butterflies, but not known to be a larval host.",
+              "locality": [
+                "California",
+                "New Mexico",
+                "Southwestern US",
+                "Midwestern US",
+                "Eastern US",
+                "US"
+              ],
+              "name": "Cephalanthus occidentalis",
+              "tag": [
+                "riparian",
+                "mesic",
+                "hydric",
+                "deciduous",
+                "fragrant",
+                "understory",
+                "butterfly",
+                "juglone tolerant"
+              ]
+            }
+          ],
+          "name": "Cephalanthus"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Ixora",
+                "Jungle Flame",
+                "Flame of the Woods"
+              ],
+              "desc": "Popular butterfly plant that blooms almost constantly in warm conditions and produces profuce nectar. Brightly colored and very ornamental.",
+              "locality": [
+                "India"
+              ],
+              "name": "Ixora coccinea",
+              "tag": [
+                "nectar",
+                "butterfly",
+                "shade",
+                "sun",
+                "mesic"
+              ]
+            }
+          ],
+          "name": "Ixora"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Blackberry Jam Fruit",
+                "Raspberry Bush",
+                "Jasmin de Rosa"
+              ],
+              "desc": "Small fruit with pulp that tastes like blackberry jam. Slow and compact grower with dense branching habit. Gardenia-like scent on flowers appearing in the fall and winter. Suitable for container culture. Produces food 1 to 1.5 years from seed.",
+              "locality": [
+                "Central America",
+                "South America"
+              ],
+              "name": "Randia formosa",
+              "synonym": [
+                "Mussaenda formosa",
+                "Randia mussaenda"
+              ],
+              "tag": [
+                "fragrant",
+                "edible",
+                "sun",
+                "shade"
+              ],
+              "vendor": [
+                "toptropicals"
+              ]
+            }
+          ],
+          "name": "Randia"
+        }
+      ],
+      "name": "Rubiaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "White Sapote"
+              ],
+              "desc": "Performs well in a climate with a distinct dry period. Fruit is said to taste like banana and have the texture of custard.",
+              "name": "Casimiroa edulis",
+              "tag": [
+                "edible",
+                "xeric",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Casimiroa"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Mandarin Orange"
+              ],
+              "name": "Citrus reticulata",
+              "tag": [
+                "xeric",
+                "edible",
+                "tree",
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Citrus"
+        }
+      ],
+      "name": "Rutaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Sapodilla",
+                "Chico"
+              ],
+              "desc": "Long lived tree. You've had this before. Tastes amazing after refrigeration. Soft texture.",
+              "locality": [
+                "Mexico"
+              ],
+              "name": "Manilkara zapota",
+              "tag": [
+                "edible",
+                "tree",
+                "overstory"
+              ]
+            }
+          ],
+          "name": "Manilkara"
+        }
+      ],
+      "name": "Sapotaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Island Alumroot"
+              ],
+              "locality": [
+                "Channel Islands",
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Heuchera maxima",
+              "tag": [
+                "clay",
+                "understory"
+              ]
+            }
+          ],
+          "name": "Heuchera"
+        }
+      ],
+      "name": "Saxifragaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Alternate-leaved Butterflybush"
+              ],
+              "desc": "Wild sprawling bush. Needs regular pruning to look neat.",
+              "locality": [
+                "Kansu",
+                "China"
+              ],
+              "name": "Buddleja alternifolia",
+              "tag": [
+                "fragrant",
+                "bush"
+              ]
+            },
+            {
+              "commonname": [
+                "Orange Ball Tree",
+                "Orange Ball Buddleja",
+                "Orange Ball Butterfly Bush"
+              ],
+              "locality": [
+                "Chile",
+                "Argentina"
+              ],
+              "name": "Buddleja globosa",
+              "tag": [
+                "fragrant",
+                "nectar"
+              ],
+              "vendor": [
+                "Annies Annuals"
+              ]
+            }
+          ],
+          "name": "Buddleja",
+          "synonym": [
+            "Buddlea"
+          ]
+        }
+      ],
+      "name": "Scrophulariaceae"
+    },
+    {
+      "children": [
+        {
+          "name": "Brugmansia"
+        },
+        {
+          "name": "Capsicum"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Orange Peel Jessamine"
+              ],
+              "desc": "Man-made hybrid. Strong night fragrance. Amazing ornamental value.",
+              "name": "Cestrum Orange Peel",
+              "tag": [
+                "fragrant",
+                "nocturnal",
+                "xeric",
+                "hummingbird",
+                "moth"
+              ],
+              "vendor": [
+                "monrovia",
+                "plantdelights",
+                "almostedenplants"
+              ]
+            }
+          ],
+          "name": "Cestrum"
+        },
+        {
+          "name": "Datura"
+        },
+        {
+          "children": [
+            {
+              "name": "Iochroma Princess",
+              "tag": [
+                "poisonous",
+                "hummingbird",
+                "tree",
+                "bush"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "name": "Iochroma grandiflora",
+              "tag": [
+                "poisonous",
+                "bush",
+                "tree",
+                "hummingbird"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Iochroma"
+        },
+        {
+          "children": [
+            {
+              "name": "Juanulloa mexicana",
+              "synonym": [
+                "Juanulloa aurantiaca"
+              ],
+              "tag": [
+                "bush",
+                "vine"
+              ]
+            }
+          ],
+          "name": "Juanulloa"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Flowering Tobacco",
+                "Woodland Tobacco",
+                "South American Tobacco"
+              ],
+              "desc": "Contains nicotine. May act as a natural pest-repellent. High ornamental value.",
+              "locality": [
+                "Andes",
+                "Argentina",
+                "Bolivia",
+                "South America"
+              ],
+              "name": "Nicotiana sylvestris",
+              "tag": [
+                "fragrant",
+                "tender perennial",
+                "poisonous",
+                "understory"
+              ]
+            }
+          ],
+          "name": "Nicotiana"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "Southwestern US",
+                "US"
+              ],
+              "name": "Physalis crassifolia",
+              "tag": [
+                "xeric"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Tomatillo"
+              ],
+              "locality": [
+                "Mexico"
+              ],
+              "name": "Physalis philadelphica",
+              "tag": [
+                "edible"
+              ]
+            }
+          ],
+          "name": "Physalis"
+        },
+        {
+          "children": [
+            {
+              "name": "Solanum cf. evolvulifolium",
+              "tag": [
+                "unnamed",
+                "vine",
+                "epiphytic"
+              ],
+              "vendor": [
+                "glassboxtropicals"
+              ]
+            },
+            {
+              "desc": "Extremely fragrant and free-flowering.",
+              "name": "Solanum crispum 'Glasnevin'",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "commonname": [
+                "Potato Vine"
+              ],
+              "desc": "Some report no fragrance under the name S. jasminoides. Many report slight to good fragrance for S. laxum 'Album'.",
+              "name": "Solanum laxum 'Album'",
+              "synonym": [
+                "Solanum jasminoides"
+              ],
+              "tag": [
+                "fragrant",
+                "vine"
+              ]
+            },
+            {
+              "name": "Solanum macranthum",
+              "synonym": [
+                "Solanum wrightii"
+              ],
+              "tag": [
+                "fragrant",
+                "tree",
+                "sun",
+                "understory"
+              ]
+            },
+            {
+              "commonname": [
+                "Eggplant"
+              ],
+              "name": "Solanum melongena"
+            },
+            {
+              "name": "Solanum rantonnetii",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "name": "Solanum seaforthianum",
+              "tag": [
+                "invasive",
+                "poisonous"
+              ]
+            },
+            {
+              "name": "Solanum umbelliferum"
+            },
+            {
+              "commonname": [
+                "Bluewitch"
+              ],
+              "locality": [
+                "California",
+                "Baja California",
+                "Arizona",
+                "US"
+              ],
+              "name": "Solanum umbelliferum incanum",
+              "tag": [
+                "xeric",
+                "bush",
+                "sun"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "commonname": [
+                "Chaparral Nightshade"
+              ],
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Solanum xanti",
+              "tag": [
+                "fragrant",
+                "xeric",
+                "poisonous",
+                "understory",
+                "sun"
+              ]
+            },
+            {
+              "commonname": [
+                "Hoffmann's Nightsade"
+              ],
+              "desc": "A beautiful 2-3' perennial with dark green glossy foliage and deep blue-purple 1\" flowers that are scented like violets but better. A sweet wonderful headturning smell. Native to the Gaviota pass area north of Santa Barbara. It is doing fine here at the nursery in the ground and fine at Cal Poly, SLO. A nice looking perennial that needs no water in most coastal gardens and can look formal as it flowers much of the year. It is native in clay, but does well here in sandy loam. ",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Solanum xanti hoffmannii",
+              "tag": [
+                "xeric",
+                "bee",
+                "fragrant",
+                "toxic",
+                "understory"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Solanum"
+        }
+      ],
+      "name": "Solanaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "commonname": [
+                "Yellow Pansy",
+                "Johnny jump up",
+                "California Golden Violet",
+                "Wild Pansy"
+              ],
+              "desc": "Leaves and young buds edible. Yellow flowers cause diarrhea in high enough amounts.",
+              "locality": [
+                "Western US",
+                "California",
+                "US"
+              ],
+              "name": "Viola pedunculata",
+              "tag": [
+                "fragrant",
+                "edible",
+                "understory",
+                "xeric"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Viola"
+        }
+      ],
+      "name": "Violaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "The crushed or rain-dampened leaves have a resinous creosote odor that some may find unpleasant.\nThe leaves give off a distinctive resinous odor after rains, especially in the summertime. Many people find this scent pleasant and evocative of rain in the Sonoran Desert.\nThese tough, clone-forming shrubs are extremely long-lived, potentially living for hundreds or even thousands of years.",
+              "locality": [
+                "Southwestern US",
+                "US",
+                "California"
+              ],
+              "name": "Larrea tridentata",
+              "tag": [
+                "fragrant",
+                "bush",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Larrea"
+        }
+      ],
+      "name": "Zygophyllaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Nymphaea Mangkala Ubol"
+            }
+          ],
+          "name": "Nymphaea"
+        }
+      ],
+      "name": "Nymphaeaceae"
+    }
+  ]
+}

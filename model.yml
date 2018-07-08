@@ -1,0 +1,19 @@
+---
+Actinidiaceae:
+    type: family
+    Actinidia:
+        type: genus
+        name: [Kiwi, Kiwifruit]
+        tags: [food]
+Adoxaceae:
+    type: family
+    Sambucus:
+        type: genus
+        Sambucus nigra:
+            type: species
+            name: [Elder, Elderberry, Black Elder]
+            tags: [food, butterfly, utility]
+            habit: [bush]
+            desc: >
+                Hollow stems. Berries useful for cuisine.
+...

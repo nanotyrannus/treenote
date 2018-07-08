@@ -1,0 +1,910 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Purple flowers that smell like grape soda.",
+              "locality": [
+                "Texas",
+                "United States"
+              ],
+              "name": "Sophora secundiflora",
+              "tag": [
+                "tree",
+                "fragrant",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Sophora"
+        },
+        {
+          "children": [
+            {
+              "desc": "Spreading weeping low canopy. Deciduous. Lives 50 to 150 years. ",
+              "locality": [
+                "Western US",
+                "California",
+                "Arizona"
+              ],
+              "name": "Prosopis glandulosa var. torreyana",
+              "tag": [
+                "xeric",
+                "tree",
+                "nitrogen fixer",
+                "fragrant"
+              ]
+            },
+            {
+              "locality": [
+                "Western US",
+                "California",
+                "Arizona"
+              ],
+              "name": "Prosopis pubescens",
+              "tag": [
+                "xeric",
+                "tree",
+                "bee"
+              ]
+            }
+          ],
+          "name": "Prosopis"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "Bolivia",
+                "Brazil"
+              ],
+              "name": "Tipuana tipu",
+              "tag": [
+                "tree",
+                "nitrogen fixer",
+                "xeric",
+                "mesic"
+              ]
+            }
+          ],
+          "name": "Tipuana"
+        },
+        {
+          "children": [
+            {
+              "desc": "Fragrant pink racemes of faboid flowers.\n\nhttps://www.fs.fed.us/database/feis/plants/tree/robneo/all.html",
+              "locality": [
+                "Arizona",
+                "California",
+                "New Mexico",
+                "Southwestern US",
+                "US"
+              ],
+              "name": "Robinia neomexicana",
+              "tag": [
+                "nitrogen fixer",
+                "xeric",
+                "fragrant",
+                "bush",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Robinia"
+        },
+        {
+          "children": [
+            {
+              "desc": "Blooms nearly all year. Atractive roundish bush to 6 ft.",
+              "locality": [
+                "Baja California",
+                "California",
+                "Southwesten US"
+              ],
+              "name": "Calliandra californica",
+              "tag": [
+                "nitrogen fixer",
+                "bush",
+                "xeric",
+                "butterfly",
+                "bee",
+                "hummingbird"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Calliandra"
+        },
+        {
+          "children": [
+            {
+              "desc": "Pink flowers, winter deciduous.",
+              "locality": [
+                "Western US",
+                "US"
+              ],
+              "name": "Cercis occidentalis",
+              "tag": [
+                "nitrogen fixer",
+                "tree",
+                "understory"
+              ]
+            }
+          ],
+          "name": "Cercis"
+        },
+        {
+          "children": [
+            {
+              "locality": [
+                "Midwestern US",
+                "US"
+              ],
+              "name": "Amorpha nana",
+              "tag": [
+                "fragrant",
+                "nitrogen fixer",
+                "understory"
+              ]
+            }
+          ],
+          "name": "Amorpha"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Sweet Pea"
+              ],
+              "name": "Lathyrus odoratus"
+            }
+          ],
+          "name": "Lathyrus"
+        }
+      ],
+      "name": "Fabaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Native to Central Asia, Mandchurian Apricot is a small, rounded tree reaching 15 to 20 feet in height. The leaves are broad, simple, ovate or broad-elliptic and mostly smooth, medium green turning golden yellow in the fall. The fragrant showy flowers are single, pink and over 1 inch wide, blooming in the spring before the leaves emerge. It is very attractive in Flower, very cold hardy and can be relied on in climates where other Prunus may not flower. Fruits are about 1 inch in diameter, yellow with red flush, showy, edible and borne in abundance. The fruit provides food for wildlife during the fall. Fruits can be eaten fresh and are excellent for making jams and jellies.",
+              "locality": [
+                "Central Asia"
+              ],
+              "name": "Prunus mandschurica",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "locality": [
+                "Western US",
+                "California"
+              ],
+              "name": "Prunus andersonii",
+              "tag": [
+                "xeric",
+                "bush"
+              ]
+            }
+          ],
+          "name": "Prunus"
+        },
+        {
+          "children": [
+            {
+              "desc": "Quick growing upright tree.",
+              "locality": [
+                "California",
+                "US",
+                "Western US"
+              ],
+              "name": "Lyonothamnus floribundus",
+              "tag": [
+                "overstory",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Lyonothamnus"
+        }
+      ],
+      "desc": "",
+      "name": "Rosaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Desert Olive is a deciduous shrub that grows fast to 6-8 feet. Native from northern central California to Riverside and east to Colorado and Texas. Useful fast filler for desert conditions, drought tolerant after established, cold tolerant to at least 0 F., and deer have not bothered this plant. Easy to grow. Give it regular water for first year, then forget or keep watering. LOVES deep sand.\n\nIt's kind of weird that our Olive grows in the same situations as the European olive, but the European Olive grows in areas of twice as much rainfall and milder locations. Our Olive is much tougher.\n\nPlants occurring nearby are Prunus andersonii, Encelia actoni, Haplopappus linearifolius, Chaenactis spp., Atriplex canescens, and Cucurbita foetidissima, in arroyo area of Joshua Tree Woodland. ",
+              "name": "Forestiera pubescens",
+              "synonym": [
+                "Forestiera pubescens"
+              ]
+            }
+          ],
+          "name": "Forestiera"
+        },
+        {
+          "children": [
+            {
+              "desc": "\"No-chill\" variety that can bloom in warm climates.",
+              "name": "Syringa 'Lavender Lady'",
+              "tag": [
+                "bush",
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "No-chill variety.",
+              "name": "Syringa 'Old Lace'",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "No-chill variety.",
+              "name": "Syringa 'Heather Haze'",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "No-chill variety.",
+              "name": "Syringa 'Big Blue'",
+              "tag": [
+                "fragrant"
+              ]
+            },
+            {
+              "desc": "No-chill variety.",
+              "name": "Syringa 'Sweet Charity'",
+              "tag": [
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Syringa"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Arizona Ash",
+                "Modesto Ash"
+              ],
+              "locality": [
+                "Southeastern US",
+                "US",
+                "Arizona",
+                "California",
+                "Baja California",
+                "Texas",
+                "Nevada",
+                "New Mexico"
+              ],
+              "name": "Fraxinus velutina",
+              "tag": [
+                "overstory",
+                "xeric"
+              ]
+            },
+            {
+              "name": "Fraxinus latifolia",
+              "tag": [
+                "xeric",
+                "mesic",
+                "overstory",
+                "tree"
+              ]
+            }
+          ],
+          "name": "Fraxinus"
+        }
+      ],
+      "name": "Oleaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Ornamental red fruits white white stripes.",
+              "name": "Diplocyclos palmatus"
+            }
+          ],
+          "desc": "",
+          "name": "Diplocyclos"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "Calabazilla",
+                "Coyote Gourd",
+                "Coyote Melon",
+                "Stinking Gourd",
+                "Chilicote"
+              ],
+              "desc": "Fresh gourd can be eaten like squash, though the mature fruit is extremely bitter.\nSeeds can be roasted or boiled and eaten.\nOil can be extracted from whole seeds. \nSeeds contain 31% crude protein.\nTaproot extremely starchy, with 47.5-56% starch content dried.",
+              "locality": [
+                "Western US",
+                "California"
+              ],
+              "name": "Cucurbita foetidissima",
+              "tag": [
+                "xeric",
+                "taproot",
+                "groundcover"
+              ],
+              "vendor": [
+                "plantdelights.com"
+              ]
+            },
+            {
+              "commonname": [
+                "Coyote Melon",
+                "Coyote Gourd"
+              ],
+              "desc": "Stress deciduous.",
+              "locality": [
+                "Nevada",
+                "Arizona"
+              ],
+              "name": "Cucurbita palmata",
+              "tag": [
+                "xeric"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Cucurbita"
+        },
+        {
+          "name": "Cucumis"
+        }
+      ],
+      "name": "Cucurbitaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Strongly fragrant white flowers. ",
+              "locality": [
+                "Mexico",
+                "Southwestern US"
+              ],
+              "name": "Mirabilis longiflora",
+              "tag": [
+                "mesic",
+                "fragrant"
+              ],
+              "vendor": [
+                "monticelloshop.org"
+              ]
+            },
+            {
+              "name": "Mirabilis jalapa"
+            }
+          ],
+          "name": "Mirabilis"
+        }
+      ],
+      "name": "Nyctaginaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "locality": [
+                "California"
+              ],
+              "name": "Acer negundo californicum",
+              "tag": [
+                "deciduous"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Acer",
+          "tag": [
+            "overstory",
+            "mesic"
+          ]
+        }
+      ],
+      "name": "Aceraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "The crushed or rain-dampened leaves have a resinous creosote odor that some may find unpleasant.\nThe leaves give off a distinctive resinous odor after rains, especially in the summertime. Many people find this scent pleasant and evocative of rain in the Sonoran Desert.\nThese tough, clone-forming shrubs are extremely long-lived, potentially living for hundreds or even thousands of years.",
+              "locality": [
+                "Southwestern US",
+                "US",
+                "California"
+              ],
+              "name": "Larrea tridentata",
+              "tag": [
+                "fragrant",
+                "bush",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Larrea"
+        }
+      ],
+      "name": "Zygophyllaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Desert Lavender\n It has blue-lavender flowers with a foliage scent similar to a tangy lavender. The odor is rich and luxurious. Desert lavender is great for hot narrow spaces that need some height. Such as narrow planting area against a hot south facing stucco wall or that narrow area between two hot concrete driveways that you need a hedge in places like Palm Springs. Desert Lavender is major bee plant in the Desert. It likes perfect drainage and a little water after established. It like full sun and can take extreme desert heat and wind. Desert Lavender will freeze to ground on cold winters. It seems to be hardy to about 25 F.. The plant has that slate blue-gray look that seems to be so popular. A wonderful plant to try in a hot sunny flower bed that does not get a lot of water. Remember that it grows in desert washes, not up on the dry hillsides, so a little water. It is not a cactus but grows where you would find a desert willow. ",
+              "name": "Hyptis emoryi",
+              "synonym": [
+                "Condea emoryi"
+              ],
+              "tag": [
+                "fragrant",
+                "butterfly",
+                "bee",
+                "evergreen",
+                "xeric"
+              ]
+            }
+          ],
+          "name": "Hyptis"
+        },
+        {
+          "children": [
+            {
+              "name": "Salvia spathacea",
+              "vendor": [
+                "Las Pilitas"
+              ]
+            },
+            {
+              "name": "Salvia flocculosa"
+            }
+          ],
+          "name": "Salvia"
+        }
+      ],
+      "name": "Lamiaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "locality": [
+                "South Africa"
+              ],
+              "name": "Tecoma capensis",
+              "synonym": [
+                "Tecomaria capensis"
+              ],
+              "tag": [
+                "xeric",
+                "hummingbird",
+                "butterfly",
+                "bush",
+                "semi-shade",
+                "full sun"
+              ]
+            },
+            {
+              "desc": "Attractive fragrant yellow flowers. Warm bloomer.\n\nhttps://selectree.calpoly.edu/tree-detail/tecoma-stans",
+              "locality": [
+                "Mexico"
+              ],
+              "name": "Tecoma stans",
+              "tag": [
+                "xeric",
+                "bee",
+                "butterfly",
+                "hummingbird",
+                "bush",
+                "fragrant"
+              ]
+            }
+          ],
+          "name": "Tecoma"
+        },
+        {
+          "children": [
+            {
+              "name": "Jacaranda mimosifolia",
+              "tag": [
+                "xeric",
+                "tree",
+                "overstory"
+              ]
+            }
+          ],
+          "name": "Jacaranda"
+        },
+        {
+          "children": [
+            {
+              "desc": "A very beautiful deciduous tree to 25 feet tall with smooth dark green palmately compund leaves and furrowed light gray bark. The 2-3 inch long lavender-pink flowers with yellow centers appear in clusters in early spring, covering the bare branches. Unlike its yellow relative, Tabebuia chrysotricha this tree takes several years to flower, but its worth the wait! Tabebuia species are generally known for their tolerance to coastal conditions but this plant prefers a warm sunny site away from the beach. Plant in a warm spot for best floral display. Listed as hardy to 24\u00b0 but survived 18\u00b0 without damage in the freeze of December 1990 in the nursery garden. Tabebuia impetiginosa was introduced into cultivation in Southern California in 1964 by the Los Angeles State and County Arboretum in Arcadia where the largest specimen in California puts on its floral display annually. ",
+              "name": "Tabebuia impetiginosa",
+              "tag": [
+                "tree"
+              ]
+            }
+          ],
+          "name": "Tabebuia"
+        }
+      ],
+      "name": "Bignoniaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Midgen Berry. Midyim.\nSweet tasting berries.",
+              "locality": [
+                "New South Wales",
+                "Queensland",
+                "Australia"
+              ],
+              "name": "Austromyrtus dulcis",
+              "tag": [
+                "edible",
+                "bush"
+              ]
+            }
+          ],
+          "name": "Austromyrtus"
+        }
+      ],
+      "name": "Myrtaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "locality": [
+                "Southwestern US",
+                "US"
+              ],
+              "name": "Physalis crassifolia",
+              "tag": [
+                "xeric"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Physalis"
+        },
+        {
+          "name": "Capsicum"
+        },
+        {
+          "name": "Solanum"
+        }
+      ],
+      "name": "Solanaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Nocturnally fragrant flowers.",
+              "locality": [
+                "Sonora",
+                "Arizona"
+              ],
+              "name": "Macrosiphonia brachysiphon",
+              "tag": [
+                "fragrant",
+                "bush"
+              ]
+            }
+          ],
+          "name": "Macrosiphonia"
+        }
+      ],
+      "name": "Apocynaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "locality": [
+                "California",
+                "Baja California"
+              ],
+              "name": "Romneya coulteri",
+              "tag": [
+                "xeric",
+                "coastal"
+              ]
+            }
+          ],
+          "name": "Romneya"
+        },
+        {
+          "name": "Papaver"
+        },
+        {
+          "children": [
+            {
+              "desc": "State flower. Blooms when warm.",
+              "locality": [
+                "California"
+              ],
+              "name": "Eschscholzia californica",
+              "tag": [
+                "xeric",
+                "bee"
+              ]
+            }
+          ],
+          "name": "Eschscholzia"
+        }
+      ],
+      "name": "Papaveraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Dense prickly impassible foliage. Good hedge to grow unpruned. Great wildlife value.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Mahonia nevinii",
+              "synonym": [
+                "Berberis nevinii"
+              ],
+              "tag": [
+                "xeric",
+                "bush",
+                "bird",
+                "hummingbird",
+                "butterfly"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Mahonia"
+        }
+      ],
+      "name": "Berberidaceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "Nocturnal fragrance.",
+              "locality": [
+                "Asia",
+                "Europe"
+              ],
+              "name": "Matthiola longipetala",
+              "tag": [
+                "fragrant",
+                "annual"
+              ]
+            }
+          ],
+          "name": "Matthiola"
+        }
+      ],
+      "name": "Brassicaceae"
+    },
+    {
+      "children": [
+        {
+          "name": "Olearia"
+        },
+        {
+          "name": "Senecio"
+        },
+        {
+          "name": "Aster"
+        },
+        {
+          "name": "Taraxacum"
+        },
+        {
+          "name": "Dahlia"
+        },
+        {
+          "children": [
+            {
+              "name": "Chamaemelum nobile",
+              "tag": [
+                "fragrant",
+                "food"
+              ]
+            }
+          ],
+          "name": "Chamaemelum"
+        },
+        {
+          "name": "Helianthus"
+        },
+        {
+          "name": "Helianthella"
+        },
+        {
+          "name": "Wyethia"
+        },
+        {
+          "name": "Solidago"
+        },
+        {
+          "children": [
+            {
+              "commonname": [
+                "German Chamomile",
+                "Scented Mayweed"
+              ],
+              "name": "Matricaria chamomilla",
+              "tag": [
+                "food",
+                "fragrant",
+                "annual",
+                "ruderal"
+              ]
+            }
+          ],
+          "name": "Matricaria"
+        }
+      ],
+      "name": "Asteraceae"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "desc": "http://www.californiagardens.com/Plant_Pages/juglans_californica.htm\n\n",
+              "locality": [
+                "California"
+              ],
+              "name": "Juglans californica",
+              "tag": [
+                "tree",
+                "shrub",
+                "edible",
+                "riparian",
+                "xeric"
+              ]
+            },
+            {
+              "desc": "To 60 feet in height and width. Long lived to 50 to 150 years.",
+              "locality": [
+                "California",
+                "US"
+              ],
+              "name": "Juglans hindsii",
+              "tag": [
+                "edible",
+                "tree",
+                "xeric",
+                "mesic"
+              ],
+              "vendor": [
+                "Las Pilitas"
+              ]
+            }
+          ],
+          "name": "Juglans"
+        }
+      ],
+      "name": "Juglandaceae"
+    },
+    {
+      "children": [
+        {
+          "name": "Arum"
+        },
+        {
+          "name": "Spathiphyllum"
+        },
+        {
+          "name": "Anthurium"
+        }
+      ],
+      "name": "Araceae"
+    },
+    {
+      "children": [
+        {
+          "name": "Dendrobium"
+        },
+        {
+          "name": "Epidendrum"
+        },
+        {
+          "children": [
+            {
+              "name": "Cattleya rex"
+            },
+            {
+              "name": "Cattley iricolor"
+            }
+          ],
+          "name": "Cattleya"
+        },
+        {
+          "name": "Phalaenopsis"
+        },
+        {
+          "name": "Laelia"
+        },
+        {
+          "name": "Schomburgkia"
+        },
+        {
+          "name": "Myrmecophila"
+        },
+        {
+          "name": "Vanda"
+        },
+        {
+          "name": "Haraella"
+        },
+        {
+          "name": "Oncidium"
+        },
+        {
+          "name": "Cymbidium"
+        },
+        {
+          "name": "Cyrtochilum"
+        },
+        {
+          "name": "Cochlioda"
+        },
+        {
+          "name": "Miltonia"
+        },
+        {
+          "name": "Miltoniopsis"
+        },
+        {
+          "name": "Gastrochilus"
+        },
+        {
+          "name": "Vanilla"
+        }
+      ],
+      "name": "Orchidaceae"
+    }
+  ]
+}
