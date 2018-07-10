@@ -13,6 +13,7 @@ import os
 import shutil
 from time import time
 from glob import glob
+from SlideshowUtil import ImageWriter
 
 # Path of main.py
 EXEC_DIR = dirname(abspath(__file__))
