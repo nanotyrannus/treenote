@@ -4,7 +4,7 @@ from os.path import abspath, join, dirname
 from PyQt5.QtWidgets import QLineEdit, QTextEdit, QApplication, QDialog, QMainWindow, QCompleter, QTreeWidgetItem, QTreeWidget, QSizePolicy, QLabel, QPlainTextEdit
 from main_window.MainWindow import Ui_MainWindow
 from PyQt5.QtGui import QPixmap
-from PyQt5.QtCore import Qt, QItemSelectionModel, QEvent, QSize
+from PyQt5.QtCore import Qt, QItemSelectionModel, QEvent, QSize, QThread
 from MultiCompleter import MultiCompleter
 from json import loads, dumps
 import pprint
@@ -13,7 +13,7 @@ import os
 import shutil
 from time import time
 from glob import glob
-from SlideshowUtil import ImageWriter
+from SlideshowUtil import url_handler
 
 # Path of main.py
 EXEC_DIR = dirname(abspath(__file__))
@@ -48,7 +48,7 @@ def setWidgetData(widget, data):
     else:
         raise Exception("{} not supported".format(type(widget)))
 
-class MyItem(QTreeWidgetItem):
+class DataItem(QTreeWidgetItem):
 
     def __init__(self, cols):
         self.values = {'name':'New'}
@@ -94,76 +94,7 @@ class DroppableLabel(QLabel):
 
     def dropEvent(self, event):
         if event.mimeData().hasUrls():
-            window = self.window()
-            current_item = window.previous_selection
-            if not current_item:
-                window.set_status_text("Select item before dropping.")
-                return
-            path_dirs = walk_path(current_item)
-            image_path = os.path.join(*path_dirs)
-
-            for url in event.mimeData().urls():
-                url = url.toString()
-
-                if os.path.isdir(url[7:]):
-                    window.set_status_text("Error: Cannot drop a directory.")
-                    return
-
-                if not os.path.exists(join(IMAGE_DIR, image_path)):
-                    os.makedirs(join(IMAGE_DIR, image_path))
-
-                name = url.split("/")[-1]
-                
-                if os.path.isfile(join(IMAGE_DIR, image_path, name)):
-                    attempt = 1
-                    new_name = "({}) ".format(attempt) + name
-                    while os.path.isfile(join(IMAGE_DIR, image_path, new_name)):
-                        attempt += 1
-                        new_name = "({}) ".format(attempt) + name
-                    name = new_name
-
-                if url.startswith("file"):
-                    try:
-                        print("file: {}".format(name))
-                        shutil.copy2(url[7:], join(IMAGE_DIR, image_path, name))
-                    except IOError as e:
-                        print("IOError Occured", e)
-                        return 
-                    except OSError as e:
-                        print("OSError Occured", e)
-                        return
-
-                elif url.startswith("http"):
-                    try:
-                        print("http {}".format(name))
-                        r = requests.get(url, stream=True)
-                        request_length = r.headers.get('content-length')
-                            
-                        window.set_status_text("Downloading {}:".format(name))
-                        downloaded = 0
-                        with open(join(IMAGE_DIR, image_path, name), "wb") as f:
-                            if request_length is None:
-                                window.set_status_text("File has no content-length header.")
-                                f.write(r.content)
-                            else:
-                                progress_visible = 0
-                                for chunk in r.iter_content(chunk_size= 2 ** 17):
-                                    downloaded += len(chunk)
-                                    progress = int((downloaded / int(request_length)) * 100)
-                                    if progress > progress_visible:
-                                        progress_visible = progress
-                                        print("Download status: {}%".format(progress_visible))
-                                    else:
-                                        print("{} of {}".format(progress_visible, progress))
-                                    f.write(chunk)
-
-                        window.set_status_text("Finished downloading {}".format(name))
-                    except IOError as e:
-                        print("IOError occured", e)
-                        return
-                else:
-                    raise Exception("Dropped item not supported: {}".format(url))
-                window.set_slideshow()
+            url_handler(self.window(), event.mimeData().urls())
 
 class Window(QMainWindow):
 
@@ -184,7 +115,7 @@ class Window(QMainWindow):
 
     def traverse_helper(self, node: dict):
         import copy
-        item = MyItem([node['name']])
+        item = DataItem([node['name']])
         item.values = copy.deepcopy(node)
         item.values.pop("children", None)
         if 'children' in node and len(node['children']) > 0:
@@ -294,7 +225,7 @@ class Window(QMainWindow):
 
     def add_entry_handler(self):
         items = self.ui.tree_widget.selectedItems()
-        new_entry = MyItem(["New"])
+        new_entry = DataItem(["New"])
         if len(items) > 0:
             item = items[0]
             item.addChild(new_entry)
@@ -324,7 +255,12 @@ class Window(QMainWindow):
 
     def selection_changed_handler(self):
         print("SELECTION CHANGED")
-        pass
+        items = self.ui.tree_widget.selectedItems()
+        if len(items) > 0:
+            item = items[0]
+            self.previous_selection = item
+            self.set_slideshow()
+            self.read_entry(item)
 
     def prev_button_handler(self):
         if len(self.pixmap_list) > 0:
@@ -363,7 +299,7 @@ class Window(QMainWindow):
         slideshow_source = glob(join(IMAGE_DIR, "/".join(walk_path(self.previous_selection)), "**/*.*"), recursive=True)
         self.pixmap_list = []
         self.slideshow_index = 0
-        for url in slideshow_source:
+        for url in slideshow_source[:20]:
             if url not in self.pixmap_cache:
                 self.pixmap_cache[url] = QPixmap(url)
             self.pixmap_list.append(self.pixmap_cache[url])
@@ -392,7 +328,7 @@ class Window(QMainWindow):
         node = self.ui.tree_widget.selectedItems()[0]
         # read_entry(node)
 
-    def read_entry(self, node: MyItem):
+    def read_entry(self, node: DataItem):
         node.getItemData(self.ui.metadata_layout)
         # values = node.values
         # self.ui.name_line.setText(values['name'] if 'name' in values else None)
