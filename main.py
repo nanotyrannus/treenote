@@ -4,7 +4,7 @@ from os.path import abspath, join, dirname
 from PyQt5.QtWidgets import QLineEdit, QTextEdit, QApplication, QDialog, QMainWindow, QCompleter, QTreeWidgetItem, QTreeWidget, QSizePolicy, QLabel, QPlainTextEdit
 from main_window.MainWindow import Ui_MainWindow
 from PyQt5.QtGui import QPixmap
-from PyQt5.QtCore import Qt, QItemSelectionModel, QEvent, QSize, QThread
+from PyQt5.QtCore import Qt, QItemSelectionModel, QEvent, QSize, QThread, QRunnable, QThreadPool, pyqtSlot
 from MultiCompleter import MultiCompleter
 from json import loads, dumps
 import pprint
@@ -83,6 +83,20 @@ class DataItem(QTreeWidgetItem):
             else:
                 setWidgetData(widget, self.values.get(key, ""))
 
+class Worker(QRunnable):
+
+    def __init__(self, delegate, *args):
+        super(Worker, self).__init__()
+        self.delegate = delegate
+        self.args = args
+
+    @pyqtSlot()
+    def run(self):
+        if self.args is not None:
+            self.delegate(*self.args)
+        else:
+            self.delegate()
+
 class DroppableLabel(QLabel):
 
     def dragEnterEvent(self, event):
@@ -127,7 +141,12 @@ class Window(QMainWindow):
 
     def __init__(self):
         super().__init__()
+
         self.previous_selection = None
+        self.previously_clicked = False
+
+        self.threadpool = QThreadPool()
+        print("Threadpool using {} threads".format(self.threadpool.maxThreadCount()))
 
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
@@ -253,15 +272,6 @@ class Window(QMainWindow):
         else:
             self.set_status_text("Nothing to remove.")
 
-    def selection_changed_handler(self):
-        print("SELECTION CHANGED")
-        items = self.ui.tree_widget.selectedItems()
-        if len(items) > 0:
-            item = items[0]
-            self.previous_selection = item
-            self.set_slideshow()
-            self.read_entry(item)
-
     def prev_button_handler(self):
         if len(self.pixmap_list) > 0:
             self.set_status_text("Previous")
@@ -287,16 +297,32 @@ class Window(QMainWindow):
             self.resizeView()
 
     def item_pressed_handler(self, item):
-        if self.previous_selection is item:
+        print("ITEM PRESSED")
+        if self.previous_selection is item and self.previously_clicked:
+            self.previously_clicked = False
             item.setSelected(False)
             self.previous_selection = None
         else: 
+            self.previously_clicked = True
             self.previous_selection = item
-            self.set_slideshow()
+            # self.set_slideshow()
             self.read_entry(item)
+        pass
 
-    def set_slideshow(self):
-        slideshow_source = glob(join(IMAGE_DIR, "/".join(walk_path(self.previous_selection)), "**/*.*"), recursive=True)
+    def selection_changed_handler(self):
+        print("SELECTION CHANGED")
+        items = self.ui.tree_widget.selectedItems()
+        if len(items) > 0:
+            item = items[0]
+            if item is not self.previous_selection:
+                self.previous_selection = item
+                self.previously_clicked = False
+                self.set_slideshow(item)
+                self.read_entry(item)
+
+
+    def set_slideshow(self, item = None):
+        slideshow_source = glob(join(IMAGE_DIR, "/".join(walk_path(item or self.previous_selection)), "**/*.*"), recursive=True)
         self.pixmap_list = []
         self.slideshow_index = 0
         for url in slideshow_source[:20]:
