@@ -108,7 +108,9 @@ class DroppableLabel(QLabel):
 
     def dropEvent(self, event):
         if event.mimeData().hasUrls():
-            url_handler(self.window(), event.mimeData().urls())
+            worker = Worker(url_handler, self.window(), event.mimeData().urls())
+            self.window().threadpool.start(worker)
+            # url_handler(self.window(), event.mimeData().urls())
 
 class Window(QMainWindow):
 
